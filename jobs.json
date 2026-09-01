@@ -1,26 +1,217 @@
 {
-  "generatedAt": "2026-08-21T00:00:00Z",
-  "sources": ["Adzuna (US, UK, India)", "RemoteOK"],
+  "generatedAt": "2026-09-01T19:25:08.864Z",
+  "sources": [
+    "Adzuna (US, UK, India)",
+    "RemoteOK"
+  ],
   "regions": {
     "United States": [
-      { "title": "Technology Risk and Controls Senior Consultant", "company": "Crowe", "location": "Dallas, TX", "posted": "Aug 20, 2026", "pay": "$77,600 – $153,800/yr", "url": "https://to.indeed.com/aasjcdr6f4gv" },
-      { "title": "Senior Manager, IT Finance Compliance", "company": "Sony Pictures Entertainment", "location": "Culver City, CA", "posted": "Aug 13, 2026", "pay": "$145,000 – $175,000/yr", "url": "https://to.indeed.com/aaq7syz9pwq8" },
-      { "title": "Senior Manager of IT Regulatory Compliance", "company": "A. O. Smith Corporation", "location": "Nashville, TN", "posted": "Feb 27, 2026", "pay": "$72,133 – $111,505/yr", "url": "https://to.indeed.com/aanlv8kvqjm6" },
-      { "title": "Technical Account Manager – GRC/Identity Governance", "company": "Delinea", "location": "Redwood City, CA", "posted": "Jul 6, 2026", "pay": "$80,000 – $100,500/yr", "url": "https://to.indeed.com/aatkzw6h9nrq" }
-    ],
-    "India (Hyderabad)": [
-      { "title": "Senior Consultant – SAP Security & GRC AC", "company": "Deloitte", "location": "Hyderabad, Telangana", "posted": "Jul 26, 2026", "pay": "", "url": "https://to.indeed.com/aanrp2rjwkql" },
-      { "title": "SAP Security & GRC Architect", "company": "Amgen", "location": "Hyderabad, Telangana", "posted": "Mar 2, 2026", "pay": "", "url": "https://to.indeed.com/aadjjfztzlnx" },
-      { "title": "Architect – SAP Governance and Risk Compliance", "company": "PepsiCo", "location": "Hyderabad, Telangana", "posted": "May 22, 2026", "pay": "", "url": "https://to.indeed.com/aa268dh2b6xr" },
-      { "title": "Senior SAP Security/GRC Consultant", "company": "Seleccion Consulting", "location": "Hyderabad, Telangana", "posted": "Aug 14, 2026", "pay": "", "url": "https://to.indeed.com/aabvsgllkpbl" },
-      { "title": "Contractor – GRC AC (Access Control)", "company": "YASH Technologies", "location": "Hyderabad, Telangana", "posted": "Aug 20, 2026", "pay": "", "url": "https://to.indeed.com/aay6bhwj6f4m" },
-      { "title": "Security Lead (GRC & AppSec)", "company": "Innovapptive", "location": "Hyderabad, Telangana", "posted": "Jun 10, 2026", "pay": "", "url": "https://to.indeed.com/aam6hhn8zq6f" }
-    ],
-    "United Arab Emirates": [
-      { "title": "Senior SAP BASIS & Authorization Technical Analyst", "company": "Qode", "location": "Dubai", "posted": "Aug 11, 2026", "pay": "", "url": "https://to.indeed.com/aaslhh7jjqpw" }
+      {
+        "title": "Application Developer - SAP/GRC Security (ATL)",
+        "company": "Cargill",
+        "location": "Northlake, DeKalb County",
+        "posted": "Sep 1, 2026",
+        "pay": "$146,354/yr",
+        "url": "https://www.adzuna.com/land/ad/5864696653?se=nphL1jqm8RGs-Y02KTQxmA&utm_medium=api&utm_source=2df33c66&v=FC14ACA15BA195E3D1B30A62ED8B20E39AFD4348"
+      },
+      {
+        "title": "SAP Security / GRC Senior Administrator",
+        "company": "Cystems Logic",
+        "location": "San Diego, San Diego County",
+        "posted": "Aug 31, 2026",
+        "pay": "$157,348/yr",
+        "url": "https://www.adzuna.com/land/ad/5863704033?se=zlAi1jqm8RG5At0T0GlLXQ&utm_medium=api&utm_source=2df33c66&v=D10FC165DA9C182F29DC9978570A7608D1E0F04D"
+      },
+      {
+        "title": "SAP Security / GRC Senior Administrator",
+        "company": "Cystems Logic",
+        "location": "San Diego, San Diego County",
+        "posted": "Aug 31, 2026",
+        "pay": "$157,348/yr",
+        "url": "https://www.adzuna.com/land/ad/5863704033?se=nphL1jqm8RGs-Y02KTQxmA&utm_medium=api&utm_source=2df33c66&v=D10FC165DA9C182F29DC9978570A7608D1E0F04D"
+      },
+      {
+        "title": "SAP Security / GRC Consultant",
+        "company": "Cyberx Infosystem Global Hiring Solutions LLC",
+        "location": "US",
+        "posted": "Aug 25, 2026",
+        "pay": "$115,780/yr",
+        "url": "https://www.adzuna.com/details/5856144978?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security Specialist",
+        "company": "Kforce Technology Staffing",
+        "location": "Lafayette, Boulder County",
+        "posted": "Aug 25, 2026",
+        "pay": "$118,319/yr",
+        "url": "https://www.adzuna.com/land/ad/5855700441?se=zlAi1jqm8RG5At0T0GlLXQ&utm_medium=api&utm_source=2df33c66&v=4C416F3855A6ED0A452BFC82AE30D40E7A1FCA14"
+      },
+      {
+        "title": "Cyber - SAP Security and GRC Access & Process Control Manager",
+        "company": "Deloitte",
+        "location": "Tempe, Maricopa County",
+        "posted": "Aug 23, 2026",
+        "pay": "$143,512/yr",
+        "url": "https://www.adzuna.com/details/5853916693?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP S/4HANA Security Architect",
+        "company": "IT Resonance Inc.",
+        "location": "US",
+        "posted": "Aug 20, 2026",
+        "pay": "$86,326/yr",
+        "url": "https://www.adzuna.com/land/ad/5849884221?se=zlAi1jqm8RG5At0T0GlLXQ&utm_medium=api&utm_source=2df33c66&v=FCE57DE4630EB902E668BB3CFA317BEEE5FAB68E"
+      },
+      {
+        "title": "SAP Security & GRC Lead Consultant",
+        "company": "Intraedge",
+        "location": "Northlake, DeKalb County",
+        "posted": "Aug 19, 2026",
+        "pay": "$119,645/yr",
+        "url": "https://www.adzuna.com/land/ad/5848696753?se=XpoC1jqm8RGs-Y02KTQxmA&utm_medium=api&utm_source=2df33c66&v=EB4D0833B4D50099708D49FA05ED2769294CD6D3"
+      }
     ],
     "United Kingdom": [
-      { "title": "Principal Solutions Consultant (Hybrid, London)", "company": "DualEntry", "location": "London", "posted": "Jun 25, 2026", "pay": "", "url": "https://to.indeed.com/aatrhwvhwqbs" }
+      {
+        "title": "SAP IAG IAM Consultant - up to £90,000  Benefits  Bonus",
+        "company": "Involved Solutions",
+        "location": "London, UK",
+        "posted": "Aug 25, 2026",
+        "pay": "$80,000 – $90,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5855375046?se=eK3U1jqm8RG5At0T0GlLXQ&utm_medium=api&utm_source=2df33c66&v=790CEB1515D416E13269D1798554C75215EBE3C9"
+      },
+      {
+        "title": "S/4HANA SAP Security and Compliance (GRC)",
+        "company": "Capgemini",
+        "location": "London, UK",
+        "posted": "Aug 19, 2026",
+        "pay": "$49,400/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5847551954?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Consultant (IAG)",
+        "company": "83zero Limited",
+        "location": "London, UK",
+        "posted": "Aug 14, 2026",
+        "pay": "$100,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5841598580?se=eK3U1jqm8RG5At0T0GlLXQ&utm_medium=api&utm_source=2df33c66&v=D0136AEB9DF25C8C8AEA76B2589F208D5E6435DF"
+      },
+      {
+        "title": "SAP IAM Consultant",
+        "company": "Charles Simon Associates Ltd",
+        "location": "London, UK",
+        "posted": "Aug 9, 2026",
+        "pay": "$95,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5834465768?se=vCuV1jqm8RG0L_SoL9ExbQ&utm_medium=api&utm_source=2df33c66&v=ED4CC330BF1D8182B4601CC0A958746514A01CED"
+      },
+      {
+        "title": "SAP IAM Consultant",
+        "company": "Charles Simon Associates Ltd",
+        "location": "London, UK",
+        "posted": "Aug 9, 2026",
+        "pay": "$95,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5834465768?se=6DHC1jqm8RGUNa3mkcr13g&utm_medium=api&utm_source=2df33c66&v=ED4CC330BF1D8182B4601CC0A958746514A01CED"
+      },
+      {
+        "title": "SAP IAM Consultant",
+        "company": "Charles Simon Associates Ltd",
+        "location": "The City, Central London",
+        "posted": "Aug 7, 2026",
+        "pay": "$95,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5832296919?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP IAG IAM Consultant",
+        "company": "83zero Ltd",
+        "location": "The City, Central London",
+        "posted": "Aug 7, 2026",
+        "pay": "$85,000 – $100,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5832205597?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP S/4 HANA Security And GRC Consultant",
+        "company": "Square One Resources",
+        "location": "London, UK",
+        "posted": "Aug 7, 2026",
+        "pay": "$104,000 – $156,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5831671242?utm_medium=api&utm_source=2df33c66"
+      }
+    ],
+    "India (Hyderabad)": [
+      {
+        "title": "SAP S/4HANA Security Consultant - REMOTE",
+        "company": "ADV TECHMINDS",
+        "location": "Hyderabad, Telangana",
+        "posted": "Aug 26, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5856501427?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security & GRC Consultant",
+        "company": "Devdort",
+        "location": "Hyderabad, Telangana",
+        "posted": "Aug 26, 2026",
+        "pay": "$1,000,000 – $1,400,000/yr",
+        "url": "https://www.adzuna.in/details/5856168017?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP GRC and Security Consultant",
+        "company": "Protiviti Consulting Private Limited",
+        "location": "Hyderabad, Telangana",
+        "posted": "Aug 25, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5854877486?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "Architect",
+        "company": "Wissen Infotech",
+        "location": "Hyderabad, Telangana",
+        "posted": "Aug 22, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5851750203?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "Business Development Manager",
+        "company": "ThreatSense AI ™",
+        "location": "Hyderabad, Telangana",
+        "posted": "Aug 19, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/land/ad/5848120346?se=CqhC1zqm8RGW-Lh3sa6_5w&utm_medium=api&utm_source=2df33c66&v=F6C4093B1C931777AFCB19C099D8B8286A5A7422"
+      },
+      {
+        "title": "SAP Security Consultant",
+        "company": "Jobskey Consultancy",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jul 21, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5808916903?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "IMUAM Deployment Manager",
+        "company": "Johnson & Johnson",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jul 20, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5807489031?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security & GRC Architect",
+        "company": "Amgen",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jul 9, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5793336050?utm_medium=api&utm_source=2df33c66"
+      }
+    ],
+    "United Arab Emirates": [
+      {
+        "title": "Senior SAP BASIS & Authorization Technical Analyst",
+        "company": "Qode",
+        "location": "Dubai",
+        "posted": "Aug 11, 2026",
+        "pay": "",
+        "url": "https://to.indeed.com/aaslhh7jjqpw"
+      }
     ]
   }
 }
