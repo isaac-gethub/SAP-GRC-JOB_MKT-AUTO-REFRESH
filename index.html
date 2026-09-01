@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SAP GRC, Security &amp; Controls Job Market — TIB Systems LLC</title>
+<meta name="description" content="Search live SAP GRC, Security, and Controls job openings across major job boards, or browse today's live listings — updated daily.">
+<style>
+  :root{
+    --navy:#1F3864; --navy-dark:#152747; --blue:#2E5395; --accent:#3E7CB1;
+    --green:#1E7145; --bg:#F4F6FA; --card:#FFFFFF; --border:#E1E6EF; --text:#1B2430; --muted:#5A6472;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--text);}
+  a{color:inherit;}
+  .wrap{max-width:880px; margin:0 auto; padding:0 18px;}
+
+  header.site-header{
+    background:linear-gradient(135deg,var(--navy),var(--navy-dark)); padding:16px 0;
+    box-shadow:0 2px 10px rgba(0,0,0,0.15);
+  }
+  .header-inner{display:flex; align-items:center;}
+  .brand{color:#fff; font-weight:800; font-size:1.05rem; line-height:1.3;}
+  .brand span{color:#9FC0E8; font-weight:600; font-size:0.78rem; display:block; margin-top:2px;}
+
+  .hero{
+    background:linear-gradient(135deg,var(--navy),var(--navy-dark)); color:#fff;
+    padding:36px 20px 44px; text-align:center;
+  }
+  .hero h1{font-size:1.7rem; margin:0 0 12px; line-height:1.25;}
+  .hero p{font-size:0.98rem; color:#C9D4E8; max-width:600px; margin:0 auto; line-height:1.55;}
+
+  main{padding:28px 0 60px;}
+
+  .search-launcher{
+    background:var(--card); border:1px solid var(--border); border-radius:14px; padding:22px;
+    box-shadow:0 2px 10px rgba(20,30,60,0.06); margin-bottom:30px;
+  }
+  .search-launcher h2{margin:0 0 16px; color:var(--navy); font-size:1.15rem;}
+  .search-row{display:grid; grid-template-columns:1fr; gap:12px; margin-bottom:14px;}
+  .search-row select{
+    width:100%; padding:11px 12px; border:1.5px solid var(--border); border-radius:8px;
+    font-size:0.92rem; color:var(--text); background:#fff;
+  }
+  .search-launch-buttons{display:flex; gap:10px; flex-wrap:wrap;}
+  .search-launch-btn{
+    flex:1 1 auto; text-align:center; color:#fff; font-weight:700; font-size:0.85rem;
+    padding:11px 14px; border-radius:8px; text-decoration:none; white-space:nowrap;
+  }
+  .search-launch-btn.indeed{background:#2164f3;}
+  .search-launch-btn.linkedin{background:#0a66c2;}
+  .search-launch-btn.google{background:#4285F4;}
+  .search-launch-btn.dice{background:#7B2D8E;}
+  .search-launch-btn.ziprecruiter{background:#1AA05D;}
+  .search-launch-btn.naukri{background:#D9534F;}
+  .search-note{font-size:0.8rem; color:var(--muted); margin:14px 0 0; line-height:1.5;}
+
+  .snapshot-header{display:flex; flex-direction:column; gap:6px; margin:0 0 6px;}
+  .snapshot-header h2{margin:0; color:var(--navy); font-size:1.15rem;}
+  .snapshot-timestamp{font-size:0.78rem; color:var(--muted); background:#EEF2FA; padding:5px 12px; border-radius:999px; display:inline-block; width:fit-content;}
+  .disclosure-box{
+    background:#FFF7E6; border:1px solid #F0D9A8; border-radius:10px; padding:12px 16px;
+    font-size:0.82rem; color:#6B5411; line-height:1.5; margin:14px 0 22px;
+  }
+  .region-block{margin-bottom:26px;}
+  .region-title{font-size:1rem; font-weight:800; color:var(--navy); margin:0 0 10px; display:flex; align-items:center; gap:8px;}
+  .job-grid{display:grid; grid-template-columns:1fr; gap:12px;}
+  .job-card{
+    background:var(--card); border:1px solid var(--border); border-radius:10px; padding:14px 16px;
+  }
+  .job-card .job-title{font-weight:700; font-size:0.92rem; color:var(--navy); margin-bottom:4px;}
+  .job-card .job-company{font-size:0.85rem; color:var(--blue); font-weight:600; margin-bottom:2px;}
+  .job-card .job-meta{font-size:0.78rem; color:var(--muted); margin-bottom:10px;}
+  .job-card .job-link{font-size:0.8rem; font-weight:700; color:var(--green); text-decoration:none;}
+  .job-card .job-link:hover{text-decoration:underline;}
+  .snapshot-source-note{font-size:0.74rem; color:var(--muted); margin-top:8px;}
+
+  footer{
+    background:var(--navy-dark); color:#9FC0E8; text-align:center; padding:24px 18px;
+    font-size:0.8rem; line-height:1.6;
+  }
+  footer .footer-sub{display:block; color:#7C93B8; font-size:0.74rem; margin-top:4px;}
+
+  /* ~600px phone breakpoint */
+  @media (min-width:600px){
+    .search-row{grid-template-columns:1fr 1fr;}
+    .hero h1{font-size:1.95rem;}
+  }
+  /* ~880px tablet breakpoint */
+  @media (min-width:880px){
+    .job-grid{grid-template-columns:repeat(2,1fr);}
+    .snapshot-header{flex-direction:row; align-items:baseline; justify-content:space-between;}
+    .hero h1{font-size:2.15rem;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">TIB Systems LLC<span>SAP GRC, Security &amp; Controls Job Market</span></div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Find SAP GRC, Security &amp; Controls Roles</h1>
+    <p>Search live openings across major job boards, or browse today's listings — pulled automatically from job board data every day.</p>
+  </div>
+</section>
+
+<main>
+  <div class="wrap">
+
+    <div class="search-launcher">
+      <h2>Search Live Openings Now</h2>
+      <div class="search-row">
+        <select id="role-select">
+          <option value="SAP Security GRC Consultant">SAP Security GRC Consultant</option>
+          <option value="SAP GRC Access Control">SAP GRC Access Control</option>
+          <option value="SAP GRC Process Control">SAP GRC Process Control</option>
+          <option value="SAP Security &amp; GRC">SAP Security &amp; GRC</option>
+          <option value="SAP IAG Identity Access Governance">SAP IAG / Identity Access Governance</option>
+          <option value="SAP SOX ITGC">SAP SOX / ITGC</option>
+          <option value="SAP S4HANA Security">SAP S/4HANA Security</option>
+          <option value="SAP Segregation of Duties">SAP Segregation of Duties</option>
+        </select>
+        <select id="location-select">
+          <option value="United States">United States</option>
+          <option value="United Kingdom">United Kingdom</option>
+          <option value="India">India</option>
+          <option value="UAE">United Arab Emirates</option>
+          <option value="Germany">Germany</option>
+          <option value="Singapore">Singapore</option>
+          <option value="Remote">Remote / Global</option>
+        </select>
+      </div>
+      <div class="search-launch-buttons">
+        <a class="search-launch-btn indeed" id="btn-indeed" target="_blank" rel="noopener">🔎 Indeed ↗</a>
+        <a class="search-launch-btn linkedin" id="btn-linkedin" target="_blank" rel="noopener">🔎 LinkedIn ↗</a>
+        <a class="search-launch-btn google" id="btn-google" target="_blank" rel="noopener">🔎 Google Jobs ↗</a>
+        <a class="search-launch-btn dice" id="btn-dice" target="_blank" rel="noopener">🔎 Dice ↗</a>
+        <a class="search-launch-btn ziprecruiter" id="btn-zip" target="_blank" rel="noopener">🔎 ZipRecruiter ↗</a>
+        <a class="search-launch-btn naukri" id="btn-naukri" target="_blank" rel="noopener">🔎 Naukri ↗</a>
+      </div>
+      <p class="search-note">These buttons open real, live search results directly on each job site in a new tab — pick a role and location above, then click any platform.</p>
+    </div>
+
+    <div class="snapshot-header">
+      <h2>Today's Live Listings</h2>
+      <span class="snapshot-timestamp" id="snapshot-timestamp">Loading…</span>
+    </div>
+    <div class="disclosure-box">
+      Listings are refreshed automatically once a day. They're a dated snapshot at the time shown above, not a real-time feed — always verify current details directly with the employer before applying. United States, United Kingdom, India, and Remote/Global roles are pulled live daily; for the UAE and other markets, or for Dice, LinkedIn, ZipRecruiter, and Naukri specifically, use the search buttons above.
+    </div>
+    <div id="job-snapshot-container"></div>
+    <p class="snapshot-source-note" id="snapshot-source-note"></p>
+
+  </div>
+</main>
+
+<footer>
+  TIB Systems LLC | Atlanta, GA · Hyderabad, India · RAK, UAE
+  <span class="footer-sub">Listings refreshed daily · Always verify details directly with the employer before applying.</span>
+</footer>
+
+<script>
+// Fallback data, used only if jobs.json can't be loaded (e.g. opened locally without a server).
+const FALLBACK_SNAPSHOT_TIMESTAMP = "August 21, 2026 (fallback — daily feed unavailable)";
+const FALLBACK_SNAPSHOT = {
+  "United States": [
+    { title: "Technology Risk and Controls Senior Consultant", company: "Crowe", location: "Dallas, TX", posted: "Aug 20, 2026", pay: "$77,600 – $153,800/yr", url: "https://to.indeed.com/aasjcdr6f4gv" },
+    { title: "Senior Manager, IT Finance Compliance", company: "Sony Pictures Entertainment", location: "Culver City, CA", posted: "Aug 13, 2026", pay: "$145,000 – $175,000/yr", url: "https://to.indeed.com/aaq7syz9pwq8" },
+  ],
+  "India (Hyderabad)": [
+    { title: "Senior Consultant – SAP Security & GRC AC", company: "Deloitte", location: "Hyderabad, Telangana", posted: "Jul 26, 2026", pay: "", url: "https://to.indeed.com/aanrp2rjwkql" },
+    { title: "SAP Security & GRC Architect", company: "Amgen", location: "Hyderabad, Telangana", posted: "Mar 2, 2026", pay: "", url: "https://to.indeed.com/aadjjfztzlnx" },
+  ],
+};
+
+function renderJobSnapshot(regions){
+  const container = document.getElementById('job-snapshot-container');
+  let html = '';
+  Object.entries(regions).forEach(([region, jobs]) => {
+    if(!jobs || !jobs.length) return;
+    html += `<div class="region-block"><div class="region-title">📍 ${region} — ${jobs.length} role${jobs.length===1?'':'s'} found</div>`;
+    html += `<div class="job-grid">`;
+    jobs.forEach(j => {
+      html += `<div class="job-card">`;
+      html += `<div class="job-title">${j.title}</div>`;
+      html += `<div class="job-company">${j.company}</div>`;
+      html += `<div class="job-meta">${j.location} · Posted ${j.posted}${j.pay ? ' · ' + j.pay : ''}</div>`;
+      html += `<a class="job-link" href="${j.url}" target="_blank" rel="noopener">View listing ↗</a>`;
+      html += `</div>`;
+    });
+    html += `</div></div>`;
+  });
+  container.innerHTML = html || '<p class="search-note">No cached listings yet — use the search buttons above.</p>';
+}
+
+async function loadJobSnapshot(){
+  const timestampEl = document.getElementById('snapshot-timestamp');
+  const sourceNoteEl = document.getElementById('snapshot-source-note');
+  try {
+    const res = await fetch('./jobs.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('jobs.json not found');
+    const data = await res.json();
+    renderJobSnapshot(data.regions || {});
+    const d = data.generatedAt ? new Date(data.generatedAt) : null;
+    timestampEl.textContent = d ? `Updated ${d.toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'})}` : 'Update date unavailable';
+    sourceNoteEl.textContent = data.sources ? `Live-refreshed daily from: ${data.sources.join(', ')}.` : '';
+  } catch(err) {
+    renderJobSnapshot(FALLBACK_SNAPSHOT);
+    timestampEl.textContent = `Updated ${FALLBACK_SNAPSHOT_TIMESTAMP}`;
+    sourceNoteEl.textContent = 'Showing cached fallback data — could not load the daily-refreshed feed (jobs.json).';
+  }
+}
+
+function buildSearchUrls(){
+  const role = document.getElementById('role-select').value;
+  const loc = document.getElementById('location-select').value;
+  const q = encodeURIComponent(role);
+  const l = encodeURIComponent(loc === 'Remote' ? 'remote' : loc);
+  const locSlug = (loc === 'Remote' ? '' : loc).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+  const roleSlug = role.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+
+  document.getElementById('btn-indeed').href = `https://www.indeed.com/jobs?q=${q}&l=${l}`;
+  document.getElementById('btn-linkedin').href = `https://www.linkedin.com/jobs/search/?keywords=${q}&location=${l}`;
+  document.getElementById('btn-google').href = `https://www.google.com/search?q=${q}+jobs+${l}`;
+  document.getElementById('btn-dice').href = `https://www.dice.com/jobs?q=${q}&location=${l}`;
+  document.getElementById('btn-zip').href = `https://www.ziprecruiter.com/candidate/search?search=${q}&location=${l}`;
+  document.getElementById('btn-naukri').href = locSlug
+    ? `https://www.naukri.com/${roleSlug}-jobs-in-${locSlug}`
+    : `https://www.naukri.com/${roleSlug}-jobs`;
+}
+
+loadJobSnapshot();
+buildSearchUrls();
+document.getElementById('role-select').addEventListener('change', buildSearchUrls);
+document.getElementById('location-select').addEventListener('change', buildSearchUrls);
+</script>
+</body>
+</html>

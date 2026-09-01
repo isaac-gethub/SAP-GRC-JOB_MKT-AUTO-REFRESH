@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-08-21T00:00:00Z",
+  "sources": ["Adzuna (US, UK, India)", "RemoteOK"],
+  "regions": {
+    "United States": [
+      { "title": "Technology Risk and Controls Senior Consultant", "company": "Crowe", "location": "Dallas, TX", "posted": "Aug 20, 2026", "pay": "$77,600 – $153,800/yr", "url": "https://to.indeed.com/aasjcdr6f4gv" },
+      { "title": "Senior Manager, IT Finance Compliance", "company": "Sony Pictures Entertainment", "location": "Culver City, CA", "posted": "Aug 13, 2026", "pay": "$145,000 – $175,000/yr", "url": "https://to.indeed.com/aaq7syz9pwq8" },
+      { "title": "Senior Manager of IT Regulatory Compliance", "company": "A. O. Smith Corporation", "location": "Nashville, TN", "posted": "Feb 27, 2026", "pay": "$72,133 – $111,505/yr", "url": "https://to.indeed.com/aanlv8kvqjm6" },
+      { "title": "Technical Account Manager – GRC/Identity Governance", "company": "Delinea", "location": "Redwood City, CA", "posted": "Jul 6, 2026", "pay": "$80,000 – $100,500/yr", "url": "https://to.indeed.com/aatkzw6h9nrq" }
+    ],
+    "India (Hyderabad)": [
+      { "title": "Senior Consultant – SAP Security & GRC AC", "company": "Deloitte", "location": "Hyderabad, Telangana", "posted": "Jul 26, 2026", "pay": "", "url": "https://to.indeed.com/aanrp2rjwkql" },
+      { "title": "SAP Security & GRC Architect", "company": "Amgen", "location": "Hyderabad, Telangana", "posted": "Mar 2, 2026", "pay": "", "url": "https://to.indeed.com/aadjjfztzlnx" },
+      { "title": "Architect – SAP Governance and Risk Compliance", "company": "PepsiCo", "location": "Hyderabad, Telangana", "posted": "May 22, 2026", "pay": "", "url": "https://to.indeed.com/aa268dh2b6xr" },
+      { "title": "Senior SAP Security/GRC Consultant", "company": "Seleccion Consulting", "location": "Hyderabad, Telangana", "posted": "Aug 14, 2026", "pay": "", "url": "https://to.indeed.com/aabvsgllkpbl" },
+      { "title": "Contractor – GRC AC (Access Control)", "company": "YASH Technologies", "location": "Hyderabad, Telangana", "posted": "Aug 20, 2026", "pay": "", "url": "https://to.indeed.com/aay6bhwj6f4m" },
+      { "title": "Security Lead (GRC & AppSec)", "company": "Innovapptive", "location": "Hyderabad, Telangana", "posted": "Jun 10, 2026", "pay": "", "url": "https://to.indeed.com/aam6hhn8zq6f" }
+    ],
+    "United Arab Emirates": [
+      { "title": "Senior SAP BASIS & Authorization Technical Analyst", "company": "Qode", "location": "Dubai", "posted": "Aug 11, 2026", "pay": "", "url": "https://to.indeed.com/aaslhh7jjqpw" }
+    ],
+    "United Kingdom": [
+      { "title": "Principal Solutions Consultant (Hybrid, London)", "company": "DualEntry", "location": "London", "posted": "Jun 25, 2026", "pay": "", "url": "https://to.indeed.com/aatrhwvhwqbs" }
+    ]
+  }
+}
