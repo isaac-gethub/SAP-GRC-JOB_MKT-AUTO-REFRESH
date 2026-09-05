@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:52:23.126Z",
+  "generatedAt": "2026-09-05T13:46:33.931Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,12 +7,20 @@
   "regions": {
     "United States": [
       {
+        "title": "SAP Security Leader/Architect",
+        "company": "Micron",
+        "location": "Idaho City, Boise County",
+        "posted": "Sep 5, 2026",
+        "pay": "$144,122/yr",
+        "url": "https://www.adzuna.com/details/5871998188?utm_medium=api&utm_source=2df33c66"
+      },
+      {
         "title": "Senior SAP Security Consultant",
         "company": "Advent Global Solutions, Inc.",
         "location": "Raritan, Somerset County",
         "posted": "Sep 3, 2026",
         "pay": "$83,949/yr",
-        "url": "https://www.adzuna.com/land/ad/5869519951?se=KB0kOnCo8RGlI_dq_IL75Q&utm_medium=api&utm_source=2df33c66&v=A2C61CEDC908B7834043BA89D4565B1A380D5A38"
+        "url": "https://www.adzuna.com/land/ad/5869519951?se=zpDiLTCp8RGogquEo3zAlQ&utm_medium=api&utm_source=2df33c66&v=A2C61CEDC908B7834043BA89D4565B1A380D5A38"
       },
       {
         "title": "IAG SAP Security",
@@ -28,7 +36,7 @@
         "location": "Raritan, Somerset County",
         "posted": "Sep 2, 2026",
         "pay": "$71,648/yr",
-        "url": "https://www.adzuna.com/land/ad/5867754385?se=KB0kOnCo8RGlI_dq_IL75Q&utm_medium=api&utm_source=2df33c66&v=07BEE828554DF1CD56B799F2ADFBA550CE7336C9"
+        "url": "https://www.adzuna.com/land/ad/5867754385?se=zpDiLTCp8RGogquEo3zAlQ&utm_medium=api&utm_source=2df33c66&v=07BEE828554DF1CD56B799F2ADFBA550CE7336C9"
       },
       {
         "title": "IAG SAP Security",
@@ -44,7 +52,7 @@
         "location": "Textile Finance, Los Angeles County",
         "posted": "Sep 1, 2026",
         "pay": "$149,363/yr",
-        "url": "https://www.adzuna.com/land/ad/5865235346?se=CqDnOXCo8RG0VZrHo8LWNg&utm_medium=api&utm_source=2df33c66&v=0967241712C613E55284E9AA0B0D6ABE9F5B86B1"
+        "url": "https://www.adzuna.com/land/ad/5865235346?se=rgo-LTCp8RGlI_dq_IL75Q&utm_medium=api&utm_source=2df33c66&v=0967241712C613E55284E9AA0B0D6ABE9F5B86B1"
       },
       {
         "title": "SAP Security / GRC Senior Administrator",
@@ -52,7 +60,7 @@
         "location": "San Diego, San Diego County",
         "posted": "Aug 31, 2026",
         "pay": "$157,348/yr",
-        "url": "https://www.adzuna.com/land/ad/5863704033?se=PtVkOnCo8RGJzb8cChfJbA&utm_medium=api&utm_source=2df33c66&v=D10FC165DA9C182F29DC9978570A7608D1E0F04D"
+        "url": "https://www.adzuna.com/land/ad/5863704033?se=tm3bLjCp8RGS9tX3gPU9Ng&utm_medium=api&utm_source=2df33c66&v=D10FC165DA9C182F29DC9978570A7608D1E0F04D"
       },
       {
         "title": "SAP S/4HANA Security Architect",
@@ -60,49 +68,33 @@
         "location": "US",
         "posted": "Aug 20, 2026",
         "pay": "$86,326/yr",
-        "url": "https://www.adzuna.com/land/ad/5849884221?se=KB0kOnCo8RGlI_dq_IL75Q&utm_medium=api&utm_source=2df33c66&v=FCE57DE4630EB902E668BB3CFA317BEEE5FAB68E"
-      },
-      {
-        "title": "SAP Security & GRC Lead Consultant",
-        "company": "Intraedge",
-        "location": "Northlake, DeKalb County",
-        "posted": "Aug 19, 2026",
-        "pay": "$119,645/yr",
-        "url": "https://www.adzuna.com/land/ad/5848696753?se=CqDnOXCo8RG0VZrHo8LWNg&utm_medium=api&utm_source=2df33c66&v=EB4D0833B4D50099708D49FA05ED2769294CD6D3"
+        "url": "https://www.adzuna.com/land/ad/5849884221?se=zpDiLTCp8RGogquEo3zAlQ&utm_medium=api&utm_source=2df33c66&v=FCE57DE4630EB902E668BB3CFA317BEEE5FAB68E"
       }
     ],
     "United Kingdom": [
       {
-        "title": "SAP Manager - Security",
-        "company": "Yorkshire Water",
-        "location": "Leeds, West Yorkshire",
-        "posted": "Sep 3, 2026",
-        "pay": "$53,879/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=gFfXOnCo8RG0VZrHo8LWNg&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
+        "title": "SAP S/4 HANA Security And GRC Consultant",
+        "company": "Square One Resources",
+        "location": "London, UK",
+        "posted": "Sep 4, 2026",
+        "pay": "$104,000 – $156,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5871009540?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SAP Manager - Security",
         "company": "Yorkshire Water",
         "location": "Leeds, West Yorkshire",
         "posted": "Sep 3, 2026",
-        "pay": "$53,879/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=ivj-OnCo8RGBPPkmMU-_lg&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
+        "pay": "$54,921/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5869549699?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP Manager - Security",
-        "company": "Yorkshire Water",
-        "location": "Leeds, West Yorkshire",
-        "posted": "Sep 3, 2026",
-        "pay": "$53,879/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=TtsbO3Co8RGgj8B766XlxQ&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
-      },
-      {
-        "title": "SAP IAG IAM Consultant",
+        "title": "SAP Consultant (IAG)",
         "company": "83zero Ltd",
         "location": "Victoria, South West London",
         "posted": "Sep 3, 2026",
         "pay": "$85,000 – $100,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/details/5868767583?utm_medium=api&utm_source=2df33c66"
+        "url": "https://www.adzuna.co.uk/jobs/details/5868767795?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SAP IAG IAM Consultant - up to £90,000  Benefits  Bonus",
@@ -110,7 +102,7 @@
         "location": "London, UK",
         "posted": "Aug 25, 2026",
         "pay": "$80,000 – $90,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5855375046?se=xBROO3Co8RGcn4B2xVwBNw&utm_medium=api&utm_source=2df33c66&v=790CEB1515D416E13269D1798554C75215EBE3C9"
+        "url": "https://www.adzuna.co.uk/jobs/details/5855375046?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "S/4HANA SAP Security and Compliance (GRC)",
@@ -126,7 +118,7 @@
         "location": "London, UK",
         "posted": "Aug 14, 2026",
         "pay": "$100,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5841598580?se=xBROO3Co8RGcn4B2xVwBNw&utm_medium=api&utm_source=2df33c66&v=D0136AEB9DF25C8C8AEA76B2589F208D5E6435DF"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5841598580?se=ZM6_MTCp8RGS9tX3gPU9Ng&utm_medium=api&utm_source=2df33c66&v=D0136AEB9DF25C8C8AEA76B2589F208D5E6435DF"
       },
       {
         "title": "SAP IAM Consultant",
@@ -134,7 +126,15 @@
         "location": "London, UK",
         "posted": "Aug 9, 2026",
         "pay": "$95,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5834465768?se=gFfXOnCo8RG0VZrHo8LWNg&utm_medium=api&utm_source=2df33c66&v=ED4CC330BF1D8182B4601CC0A958746514A01CED"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5834465768?se=cv8dMDCp8RGlI_dq_IL75Q&utm_medium=api&utm_source=2df33c66&v=ED4CC330BF1D8182B4601CC0A958746514A01CED"
+      },
+      {
+        "title": "SAP IAM Consultant",
+        "company": "Charles Simon Associates Ltd",
+        "location": "London, UK",
+        "posted": "Aug 9, 2026",
+        "pay": "$95,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5834465768?se=Go0jMTCp8RGogquEo3zAlQ&utm_medium=api&utm_source=2df33c66&v=ED4CC330BF1D8182B4601CC0A958746514A01CED"
       }
     ],
     "India (Hyderabad)": [
@@ -147,28 +147,12 @@
         "url": "https://www.adzuna.in/details/5868419458?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP Security Consultant – S/4HANA",
-        "company": "Pragma Technology Consulting Services Pvt. Ltd.",
-        "location": "Hyderabad, Telangana",
-        "posted": "Sep 2, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/land/ad/5867036130?se=rDysO3Co8RGogquEo3zAlQ&utm_medium=api&utm_source=2df33c66&v=F751E54CFD359A715C2A34718E4EC9B2661C5006"
-      },
-      {
         "title": "Manager - Identity & Access Management",
         "company": "Grant Thornton INDUS",
         "location": "Hyderabad, Telangana",
         "posted": "Sep 1, 2026",
         "pay": "",
-        "url": "https://www.adzuna.in/land/ad/5864438630?se=6r3sO3Co8RGJzb8cChfJbA&utm_medium=api&utm_source=2df33c66&v=90B1F91F3E65B0B28225682F58CC1480C1EAA8E3"
-      },
-      {
-        "title": "SAP GRC Consultant",
-        "company": "NexSAP Solutions",
-        "location": "Hyderabad, Telangana",
-        "posted": "Sep 1, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/land/ad/5864429446?se=rDysO3Co8RGogquEo3zAlQ&utm_medium=api&utm_source=2df33c66&v=4A04583F52D76CC78ED581B94A3BAB1570B2E278"
+        "url": "https://www.adzuna.in/land/ad/5864438630?se=jC-eMzCp8RGS9tX3gPU9Ng&utm_medium=api&utm_source=2df33c66&v=90B1F91F3E65B0B28225682F58CC1480C1EAA8E3"
       },
       {
         "title": "SAP S/4HANA Security Consultant - REMOTE",
@@ -201,6 +185,22 @@
         "posted": "Aug 22, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5851750203?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "IMUAM Deployment Manager",
+        "company": "Johnson & Johnson",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jul 20, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5807489031?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security & GRC Architect",
+        "company": "Amgen",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jul 9, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5793336050?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "United Arab Emirates": [
