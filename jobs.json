@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:19:59.632Z",
+  "generatedAt": "2026-09-08T15:00:49.005Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,79 +7,71 @@
   "regions": {
     "United States": [
       {
-        "title": "SAP Security Engineer, Ford Energy",
-        "company": "Ford Motor Company",
-        "location": "Dearborn, Wayne County",
-        "posted": "Sep 6, 2026",
-        "pay": "$121,807/yr",
-        "url": "https://www.adzuna.com/land/ad/5872973643?se=ytEo99eq8RGl-_JRamYmYw&utm_medium=api&utm_source=2df33c66&v=038089734E85BCAF02921964FF04F205C53E5283"
-      },
-      {
-        "title": "SAP Security Leader/Architect",
-        "company": "Micron Technology, Inc.",
-        "location": "Boise, Ada County",
-        "posted": "Sep 6, 2026",
-        "pay": "$143,393/yr",
-        "url": "https://www.adzuna.com/land/ad/5872965491?se=wFVF99eq8RG45fNsLexh6Q&utm_medium=api&utm_source=2df33c66&v=1F0616F839324B1C530DDE052156664D46327291"
-      },
-      {
-        "title": "SAP Security Engineer, Ford Energy",
-        "company": "Ford Motor",
-        "location": "Dearborn, Wayne County",
-        "posted": "Sep 6, 2026",
-        "pay": "$65,100 – $166,200/yr",
-        "url": "https://www.adzuna.com/details/5872922743?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "Senior SAP Security Consultant",
-        "company": "Advent Global Solutions, Inc.",
-        "location": "Raritan, Somerset County",
-        "posted": "Sep 3, 2026",
-        "pay": "$83,949/yr",
-        "url": "https://www.adzuna.com/land/ad/5869519951?se=6pbV9teq8RG84Z70Fx4EkA&utm_medium=api&utm_source=2df33c66&v=A2C61CEDC908B7834043BA89D4565B1A380D5A38"
-      },
-      {
-        "title": "IAG SAP Security",
-        "company": "Programmers.io",
-        "location": "US",
-        "posted": "Sep 2, 2026",
-        "pay": "$137,733/yr",
-        "url": "https://www.adzuna.com/details/5868082337?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "SAP Security Consultant",
-        "company": "Advent Global Solutions, Inc.",
-        "location": "Raritan, Somerset County",
-        "posted": "Sep 2, 2026",
-        "pay": "$71,648/yr",
-        "url": "https://www.adzuna.com/land/ad/5867754385?se=6pbV9teq8RG84Z70Fx4EkA&utm_medium=api&utm_source=2df33c66&v=07BEE828554DF1CD56B799F2ADFBA550CE7336C9"
-      },
-      {
         "title": "SAP GRC & Security Consultant",
         "company": "AVA Consulting",
         "location": "Textile Finance, Los Angeles County",
         "posted": "Sep 1, 2026",
         "pay": "$149,363/yr",
-        "url": "https://www.adzuna.com/land/ad/5865235346?se=cIWn9teq8RGl-_JRamYmYw&utm_medium=api&utm_source=2df33c66&v=0967241712C613E55284E9AA0B0D6ABE9F5B86B1"
+        "url": "https://www.adzuna.com/land/ad/5865235346?se=JESzDpar8RGKNpKr2lhcuA&utm_medium=api&utm_source=2df33c66&v=0967241712C613E55284E9AA0B0D6ABE9F5B86B1"
       },
       {
-        "title": "SAP Security / GRC Senior Administrator",
-        "company": "Cystems Logic",
-        "location": "San Diego, San Diego County",
-        "posted": "Aug 31, 2026",
-        "pay": "$157,348/yr",
-        "url": "https://www.adzuna.com/land/ad/5863704033?se=6pbV9teq8RG84Z70Fx4EkA&utm_medium=api&utm_source=2df33c66&v=D10FC165DA9C182F29DC9978570A7608D1E0F04D"
+        "title": "SAP Security & GRC Lead Consultant",
+        "company": "Intraedge",
+        "location": "Northlake, DeKalb County",
+        "posted": "Aug 19, 2026",
+        "pay": "$119,645/yr",
+        "url": "https://www.adzuna.com/land/ad/5848696753?se=JESzDpar8RGKNpKr2lhcuA&utm_medium=api&utm_source=2df33c66&v=EB4D0833B4D50099708D49FA05ED2769294CD6D3"
+      },
+      {
+        "title": "Senior Information Security Governance, Risk & Compliance Analyst",
+        "company": "MiniMed",
+        "location": "US",
+        "posted": "Aug 15, 2026",
+        "pay": "$115,453/yr",
+        "url": "https://www.adzuna.com/land/ad/5843870226?se=WjzeD5ar8RG_XcVPRIW5Uw&utm_medium=api&utm_source=2df33c66&v=920F8A4A96A9A5FB96B73B944FB08B288936E942"
+      },
+      {
+        "title": "Senior Information Security Governance, Risk & Compliance Analyst",
+        "company": "MiniMed",
+        "location": "Northridge, Los Angeles County",
+        "posted": "Aug 15, 2026",
+        "pay": "$135,464/yr",
+        "url": "https://www.adzuna.com/land/ad/5843665167?se=WjzeD5ar8RG_XcVPRIW5Uw&utm_medium=api&utm_source=2df33c66&v=CD05543259D8096B6C665C6A00B07FA2E75C0D78"
+      },
+      {
+        "title": "SAP Security GRC Consultant",
+        "company": "Dechen Consulting Group",
+        "location": "Dearborn, Wayne County",
+        "posted": "Aug 12, 2026",
+        "pay": "$112,694/yr",
+        "url": "https://www.adzuna.com/land/ad/5838977789?se=JESzDpar8RGKNpKr2lhcuA&utm_medium=api&utm_source=2df33c66&v=77D0A7836985418D5AEED792B53DC0B5042FE7B7"
+      },
+      {
+        "title": "SAP Security and GRC Consultant",
+        "company": "US Tech Solutions",
+        "location": "Benson, Douglas County",
+        "posted": "Jun 4, 2026",
+        "pay": "$100,816/yr",
+        "url": "https://www.adzuna.com/land/ad/5752703830?se=JESzDpar8RGKNpKr2lhcuA&utm_medium=api&utm_source=2df33c66&v=D1C358D0D923F14E116B8B89D3869DF333AA47CF"
+      },
+      {
+        "title": "Cyber SAP Security and GRC Access & Process Control Senior Consultant / Senior Engineering Management Specialist",
+        "company": "Deloitte",
+        "location": "Nashville, Davidson County",
+        "posted": "May 23, 2026",
+        "pay": "$139,406/yr",
+        "url": "https://www.adzuna.com/land/ad/5739320456?se=WjzeD5ar8RG_XcVPRIW5Uw&utm_medium=api&utm_source=2df33c66&v=A008D25D4FA80A5D8CF61C90CFC7C6CC105F9C1E"
+      },
+      {
+        "title": "Cyber SAP Security and GRC Access & Process Control Senior Consultant / Senior Engineering Management Specialist",
+        "company": "Deloitte",
+        "location": "Glendale, Denver",
+        "posted": "May 23, 2026",
+        "pay": "$158,518/yr",
+        "url": "https://www.adzuna.com/land/ad/5739318009?se=WjzeD5ar8RG_XcVPRIW5Uw&utm_medium=api&utm_source=2df33c66&v=4E91B9543313AB729C7CA592902F789AB89D4433"
       }
     ],
     "United Kingdom": [
-      {
-        "title": "SAP Security Architect",
-        "company": "Infoplus Technologies UK Limited",
-        "location": "Well End, Borehamwood",
-        "posted": "Sep 6, 2026",
-        "pay": "$40,000 – $71,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/details/5872972828?utm_medium=api&utm_source=2df33c66"
-      },
       {
         "title": "SAP S/4 HANA Security And GRC Consultant",
         "company": "Square One Resources",
@@ -126,15 +118,15 @@
         "location": "The City, Central London",
         "posted": "Aug 12, 2026",
         "pay": "$85,000 – $100,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/details/5838133618?utm_medium=api&utm_source=2df33c66"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5838133618?se=mLwUEZar8RGKNpKr2lhcuA&utm_medium=api&utm_source=2df33c66&v=701BCA49E44A9AB29F6356A9B56E8C00314B31E9"
       },
       {
-        "title": "SAP IAM Consultant",
-        "company": "Charles Simon Associates Ltd",
-        "location": "London, UK",
-        "posted": "Aug 9, 2026",
-        "pay": "$95,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/details/5834465768?utm_medium=api&utm_source=2df33c66"
+        "title": "SAP Security - Lead Solution Advisor/Senior Solution Advisor",
+        "company": "Deloitte",
+        "location": "UK",
+        "posted": "Jul 10, 2025",
+        "pay": "$67,166/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5295888640?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "India (Hyderabad)": [
@@ -147,20 +139,20 @@
         "url": "https://www.adzuna.in/details/5868419458?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "Manager - Identity & Access Management",
-        "company": "Grant Thornton INDUS",
-        "location": "Hyderabad, Telangana",
-        "posted": "Sep 1, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/land/ad/5864438630?se=pjlX-Neq8RG45fNsLexh6Q&utm_medium=api&utm_source=2df33c66&v=90B1F91F3E65B0B28225682F58CC1480C1EAA8E3"
-      },
-      {
         "title": "SAP S/4HANA Security Consultant - REMOTE",
         "company": "ADV TECHMINDS",
         "location": "Hyderabad, Telangana",
         "posted": "Aug 26, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5856501427?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security & GRC Consultant",
+        "company": "Devdort",
+        "location": "Hyderabad, Telangana",
+        "posted": "Aug 26, 2026",
+        "pay": "$1,000,000 – $1,400,000/yr",
+        "url": "https://www.adzuna.in/details/5856168017?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SAP GRC and Security Consultant",
@@ -179,14 +171,6 @@
         "url": "https://www.adzuna.in/details/5851750203?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP Security Consultant",
-        "company": "Jobskey Consultancy",
-        "location": "Hyderabad, Telangana",
-        "posted": "Jul 21, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/details/5808916903?utm_medium=api&utm_source=2df33c66"
-      },
-      {
         "title": "IMUAM Deployment Manager",
         "company": "Johnson & Johnson",
         "location": "Hyderabad, Telangana",
@@ -201,6 +185,14 @@
         "posted": "Jul 9, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5793336050?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security & GRC Architect",
+        "company": "Amgen",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jun 8, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5756005560?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "United Arab Emirates": [
