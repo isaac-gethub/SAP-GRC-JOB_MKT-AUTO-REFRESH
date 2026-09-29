@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:32:19.110Z",
+  "generatedAt": "2026-09-29T16:50:07.442Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -9,18 +9,18 @@
       {
         "title": "SAP Security & GRC Engineer",
         "company": "Bright Vision Technologies",
+        "location": "Naperville, DuPage County",
+        "posted": "Sep 28, 2026",
+        "pay": "$131,519/yr",
+        "url": "https://www.adzuna.com/details/5901985777?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security & GRC Engineer",
+        "company": "Bright Vision Technologies",
         "location": "Edison, Middlesex County",
         "posted": "Sep 28, 2026",
         "pay": "$145,150/yr",
         "url": "https://www.adzuna.com/details/5901804259?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "SAP Process Control and Risk Management Specialist",
-        "company": "CACI",
-        "location": "Scott Air Force Base, Saint Clair County",
-        "posted": "Sep 25, 2026",
-        "pay": "$90,300 – $189,600/yr",
-        "url": "https://www.adzuna.com/land/ad/5898392997?se=vj487mq78RG3HbWPlKe6Vw&utm_medium=api&utm_source=2df33c66&v=30E8843A598A4D7452A541982D73216EFF0046AA"
       },
       {
         "title": "Senior Lead, SAP Security, GRC & Compliance- PVH Corp.",
@@ -28,15 +28,15 @@
         "location": "Bridgewater, Somerset County",
         "posted": "Sep 25, 2026",
         "pay": "$171,836/yr",
-        "url": "https://www.adzuna.com/land/ad/5898243041?se=vgZW7mq78RGS97j_zW5Twg&utm_medium=api&utm_source=2df33c66&v=B5D6BB1C987597D7AD1382CA2B972464953CD73E"
+        "url": "https://www.adzuna.com/land/ad/5898243041?se=YMqX0SW88RG5QYXapx_3iw&utm_medium=api&utm_source=2df33c66&v=B5D6BB1C987597D7AD1382CA2B972464953CD73E"
       },
       {
-        "title": "Senior SAP Security Consultant",
-        "company": "Advent Global Solutions, Inc.",
-        "location": "Bridgewater, Somerset County",
-        "posted": "Sep 22, 2026",
-        "pay": "$98,775/yr",
-        "url": "https://www.adzuna.com/land/ad/5894256336?se=5Dop7mq78RGKj5CFZN1R3A&utm_medium=api&utm_source=2df33c66&v=F781401F03B038BBA6BBEA14BB09F1416584A9C7"
+        "title": "SAP Process Control and Risk Management Specialist",
+        "company": "CACI International",
+        "location": "Illinois, US",
+        "posted": "Sep 24, 2026",
+        "pay": "$125,471/yr",
+        "url": "https://www.adzuna.com/land/ad/5897288427?se=8sx70SW88RGnaMK3Ib81hg&utm_medium=api&utm_source=2df33c66&v=BB315A05BF870A0E3799DD9FCB5CF2A809C77F46"
       },
       {
         "title": "SAP GRC Security Consultant",
@@ -47,20 +47,12 @@
         "url": "https://www.adzuna.com/details/5893431742?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP Security & GRC Engineer",
-        "company": "Bright Vision Technologies",
-        "location": "Ann Arbor, Washtenaw County",
-        "posted": "Sep 21, 2026",
-        "pay": "$127,885/yr",
-        "url": "https://www.adzuna.com/details/5893307479?utm_medium=api&utm_source=2df33c66"
-      },
-      {
         "title": "Manager, SAP Security Controls & Governance",
         "company": "The Coca-Cola Company",
         "location": "Atlanta, Fulton County",
         "posted": "Sep 20, 2026",
         "pay": "$170,994/yr",
-        "url": "https://www.adzuna.com/land/ad/5891622662?se=rs-D7mq78RG3HbWPlKe6Vw&utm_medium=api&utm_source=2df33c66&v=E9CC9C774B16AAAF3A857CC9FCFDBF592CD11851"
+        "url": "https://www.adzuna.com/land/ad/5891622662?se=8j7c0SW88RGFWqSdFQrnew&utm_medium=api&utm_source=2df33c66&v=E9CC9C774B16AAAF3A857CC9FCFDBF592CD11851"
       },
       {
         "title": "Manager, SAP Security Controls & Governance",
@@ -68,7 +60,15 @@
         "location": "Northlake, DeKalb County",
         "posted": "Sep 17, 2026",
         "pay": "$141,629/yr",
-        "url": "https://www.adzuna.com/land/ad/5888531974?se=5Dop7mq78RGKj5CFZN1R3A&utm_medium=api&utm_source=2df33c66&v=CFF6D0C6D9C495F36D56C41295BFCF056A381932"
+        "url": "https://www.adzuna.com/land/ad/5888531974?se=qC9Z0SW88RGnaMK3Ib81hg&utm_medium=api&utm_source=2df33c66&v=CFF6D0C6D9C495F36D56C41295BFCF056A381932"
+      },
+      {
+        "title": "Manager, SAP Security Controls & Governance",
+        "company": "The Coca-Cola Company",
+        "location": "Northlake, DeKalb County",
+        "posted": "Sep 17, 2026",
+        "pay": "$141,629/yr",
+        "url": "https://www.adzuna.com/land/ad/5888531974?se=8j7c0SW88RGFWqSdFQrnew&utm_medium=api&utm_source=2df33c66&v=CFF6D0C6D9C495F36D56C41295BFCF056A381932"
       }
     ],
     "United Kingdom": [
@@ -89,14 +89,6 @@
         "url": "https://www.adzuna.co.uk/jobs/details/5896918353?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP GRC Lead",
-        "company": "Hays",
-        "location": "Yorkshire And The Humber, UK",
-        "posted": "Sep 22, 2026",
-        "pay": "$130,000 – $143,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5893922482?se=rFvC7mq78RGS97j_zW5Twg&utm_medium=api&utm_source=2df33c66&v=8B8C7B40A4158E448E00E26DD46584C90F75BE75"
-      },
-      {
         "title": "SAP Security & GRC Consultant",
         "company": "Elix Sourcing Solutions",
         "location": "Pingewood, Reading",
@@ -110,15 +102,7 @@
         "location": "Reading, Berkshire",
         "posted": "Sep 17, 2026",
         "pay": "$70,000 – $80,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5888078055?se=vvCn7mq78RG8drI3UgoA2A&utm_medium=api&utm_source=2df33c66&v=ACA3E6B7807190C52C5F92FCCD44FB331641CCBD"
-      },
-      {
-        "title": "SAP Security & GRC Consultant",
-        "company": "Elix Sourcing Solutions",
-        "location": "Reading, Berkshire",
-        "posted": "Sep 17, 2026",
-        "pay": "$70,000 – $80,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5888078055?se=TqLt7mq78RG3HbWPlKe6Vw&utm_medium=api&utm_source=2df33c66&v=ACA3E6B7807190C52C5F92FCCD44FB331641CCBD"
+        "url": "https://www.adzuna.co.uk/jobs/details/5888078055?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SAP Manager - Security",
@@ -126,7 +110,7 @@
         "location": "Leeds, West Yorkshire",
         "posted": "Sep 3, 2026",
         "pay": "$53,879/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=vvCn7mq78RG8drI3UgoA2A&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=WDcK0iW88RGnaMK3Ib81hg&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
       },
       {
         "title": "SAP Manager - Security",
@@ -134,7 +118,23 @@
         "location": "Leeds, West Yorkshire",
         "posted": "Sep 3, 2026",
         "pay": "$53,879/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=rFvC7mq78RGS97j_zW5Twg&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=NOQm0iW88RGcn96iDKHEww&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
+      },
+      {
+        "title": "SAP Manager - Security",
+        "company": "Yorkshire Water",
+        "location": "Leeds, West Yorkshire",
+        "posted": "Sep 3, 2026",
+        "pay": "$53,879/yr",
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5869482659?se=dHs70iW88RGFWqSdFQrnew&utm_medium=api&utm_source=2df33c66&v=7EB8B34EA0502245CC4E01CFC5AE88C3A1900200"
+      },
+      {
+        "title": "S/4HANA SAP Security and Compliance (GRC)",
+        "company": "Capgemini",
+        "location": "London, UK",
+        "posted": "Aug 19, 2026",
+        "pay": "$49,400/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5847551954?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "India (Hyderabad)": [
@@ -147,20 +147,28 @@
         "url": "https://www.adzuna.in/details/5884512322?utm_medium=api&utm_source=2df33c66"
       },
       {
+        "title": "SAP GRC PC Consultant",
+        "company": "Tata Consultancy Services",
+        "location": "Hyderabad, Telangana",
+        "posted": "Sep 15, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/land/ad/5883858742?se=vH-y0iW88RGcn96iDKHEww&utm_medium=api&utm_source=2df33c66&v=1C11506FEC3C041ED3C36CC1B512A6D3EF376329"
+      },
+      {
+        "title": "SAP GRC PC Consultant",
+        "company": "Tata Consultancy Services",
+        "location": "Hyderabad, Telangana",
+        "posted": "Sep 15, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/land/ad/5883858742?se=0MbP0iW88RGFWqSdFQrnew&utm_medium=api&utm_source=2df33c66&v=1C11506FEC3C041ED3C36CC1B512A6D3EF376329"
+      },
+      {
         "title": "IM UAM Governance Manager",
         "company": "Johnson & Johnson",
         "location": "Hyderabad, Telangana",
         "posted": "Sep 13, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5882775715?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "IT&D Business Analyst, SAP Pricing",
-        "company": "Reckitt",
-        "location": "Hyderabad, Telangana",
-        "posted": "Sep 1, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/land/ad/5865064905?se=cgtW72q78RGKj5CFZN1R3A&utm_medium=api&utm_source=2df33c66&v=D0FE65CC5E0B08A5A98B2FC55FB898755A0A4B92"
       },
       {
         "title": "SAP S/4HANA Security Consultant - REMOTE",
@@ -193,14 +201,6 @@
         "posted": "Jul 9, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5793336050?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "SAP Security & GRC Architect",
-        "company": "Amgen",
-        "location": "Hyderabad, Telangana",
-        "posted": "Jun 8, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/details/5756005560?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "Remote / Global": [
