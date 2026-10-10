@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-09T17:22:51.795Z",
+  "generatedAt": "2026-10-10T16:08:49.925Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
   ],
   "regions": {
     "United States": [
+      {
+        "title": "SAP S/4HANA Security Lead - GRC & Transformation",
+        "company": "HS Solutions",
+        "location": "New Jersey, US",
+        "posted": "Oct 9, 2026",
+        "pay": "$97,693/yr",
+        "url": "https://www.adzuna.com/land/ad/5921121976?se=sCjG3sTE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=BA71E3A38582C787C6BD15B2AAE58CC9FD75986B"
+      },
       {
         "title": "Security Analytics Architect",
         "company": "Openkyber",
@@ -15,12 +23,20 @@
         "url": "https://www.adzuna.com/details/5919861927?utm_medium=api&utm_source=2df33c66"
       },
       {
+        "title": "Security Analyst",
+        "company": "Cargill",
+        "location": "Northlake, DeKalb County",
+        "posted": "Oct 8, 2026",
+        "pay": "$96,000 – $112,000/yr",
+        "url": "https://www.adzuna.com/land/ad/5919672186?se=sCjG3sTE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=32DFFC6B068060BE9456C9E4A6EC5CB5CDD65EA5"
+      },
+      {
         "title": "Security Analyst - SAP/GRC",
         "company": "Cargill",
         "location": "Northlake, DeKalb County",
         "posted": "Oct 8, 2026",
         "pay": "$104,361/yr",
-        "url": "https://www.adzuna.com/land/ad/5919502260?se=WOyMDAbE8RG_59bpLSVmjQ&utm_medium=api&utm_source=2df33c66&v=1AFB3D1F9F436A19FC2E73C4AC6BE0BD930C277E"
+        "url": "https://www.adzuna.com/land/ad/5919502260?se=XKEP38TE8RGGdoFFl_aI8Q&utm_medium=api&utm_source=2df33c66&v=1AFB3D1F9F436A19FC2E73C4AC6BE0BD930C277E"
       },
       {
         "title": "Manager, SAP Security and Controls",
@@ -28,7 +44,7 @@
         "location": "Durham, Durham County",
         "posted": "Oct 8, 2026",
         "pay": "$200,858/yr",
-        "url": "https://www.adzuna.com/land/ad/5919077313?se=9rK-DAbE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=DF33DFDCF38B1CCF52B9DEC7B66FFAE7A3BCC83C"
+        "url": "https://www.adzuna.com/land/ad/5919077313?se=jsJS38TE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=DF33DFDCF38B1CCF52B9DEC7B66FFAE7A3BCC83C"
       },
       {
         "title": "Manager, SAP Security and Controls",
@@ -36,39 +52,23 @@
         "location": "Durham, Durham County",
         "posted": "Oct 8, 2026",
         "pay": "$179,426/yr",
-        "url": "https://www.adzuna.com/land/ad/5918856164?se=9rK-DAbE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=DB18192E5C3ADE90BF3A05460D5490DDF822FE4B"
+        "url": "https://www.adzuna.com/land/ad/5918856164?se=jsJS38TE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=DB18192E5C3ADE90BF3A05460D5490DDF822FE4B"
       },
       {
-        "title": "SAP PM Specialist",
-        "company": "Solaris Oilfield Infrastructure, LLC",
-        "location": "Trammells, Harris County",
-        "posted": "Oct 7, 2026",
-        "pay": "$116,125/yr",
-        "url": "https://www.adzuna.com/land/ad/5915849949?se=sJqkDAbE8RGRs48L_-pA7w&utm_medium=api&utm_source=2df33c66&v=22940CC3452499325CC175EF258B9BEFFB061E22"
+        "title": "Senior SAP Basis & Security Engineer",
+        "company": "swipejobs",
+        "location": "Charlotte, Mecklenburg County",
+        "posted": "Oct 6, 2026",
+        "pay": "$99,472/yr",
+        "url": "https://www.adzuna.com/land/ad/5914033082?se=sCjG3sTE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=2df33c66&v=209532FBA12A8376377C57FCBD18376048F49ECE"
       },
       {
         "title": "Cyber - SAP Security and GRC Access & Process Control Manager",
-        "company": "Deloitte LLP",
-        "location": "Arizona, US",
-        "posted": "Oct 6, 2026",
-        "pay": "$116,097/yr",
-        "url": "https://www.adzuna.com/land/ad/5915192553?se=loNYDAbE8RGAYIVsDFf18w&utm_medium=api&utm_source=2df33c66&v=0EF36CDF4C1E719AD240A6118F663778D73DEB1B"
-      },
-      {
-        "title": "Cyber - SAP Security and GRC Access & Process Control Manager",
-        "company": "Deloitte LLP",
-        "location": "Arizona, US",
-        "posted": "Oct 6, 2026",
-        "pay": "$116,097/yr",
-        "url": "https://www.adzuna.com/land/ad/5915192553?se=FAJ1DAbE8RGAYIVsDFf18w&utm_medium=api&utm_source=2df33c66&v=0EF36CDF4C1E719AD240A6118F663778D73DEB1B"
-      },
-      {
-        "title": "Cyber - SAP Security and GRC Access & Process Control Manager",
-        "company": "Deloitte LLP",
-        "location": "Arizona, US",
-        "posted": "Oct 6, 2026",
-        "pay": "$116,097/yr",
-        "url": "https://www.adzuna.com/land/ad/5915192553?se=WOyMDAbE8RG_59bpLSVmjQ&utm_medium=api&utm_source=2df33c66&v=0EF36CDF4C1E719AD240A6118F663778D73DEB1B"
+        "company": "Deloitte",
+        "location": "International, King County",
+        "posted": "Oct 4, 2026",
+        "pay": "$132,369/yr",
+        "url": "https://www.adzuna.com/land/ad/5911471254?se=xvLq3sTE8RG_59bpLSVmjQ&utm_medium=api&utm_source=2df33c66&v=67541B4D9FD61FE5C5A49368C6F6C726CBF6E5B3"
       }
     ],
     "United Kingdom": [
@@ -78,7 +78,7 @@
         "location": "London, UK",
         "posted": "Oct 5, 2026",
         "pay": "$65,430/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5912584895?se=ho0IDQbE8RGRs48L_-pA7w&utm_medium=api&utm_source=2df33c66&v=C3A3236815332128CB14A3A4D0F4538D9A11E052"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5912584895?se=mg6-38TE8RG_59bpLSVmjQ&utm_medium=api&utm_source=2df33c66&v=C3A3236815332128CB14A3A4D0F4538D9A11E052"
       },
       {
         "title": "Access Controls Lead",
@@ -86,7 +86,7 @@
         "location": "London, UK",
         "posted": "Oct 5, 2026",
         "pay": "$65,430/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5912584895?se=wC0uDQbE8RGRs48L_-pA7w&utm_medium=api&utm_source=2df33c66&v=C3A3236815332128CB14A3A4D0F4538D9A11E052"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5912584895?se=On3X38TE8RG_59bpLSVmjQ&utm_medium=api&utm_source=2df33c66&v=C3A3236815332128CB14A3A4D0F4538D9A11E052"
       },
       {
         "title": "SAP Senior Consultant - Security",
@@ -94,7 +94,7 @@
         "location": "Belle Isle, Leeds",
         "posted": "Oct 1, 2026",
         "pay": "$48,408/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5905781004?se=IEHtDAbE8RGAYIVsDFf18w&utm_medium=api&utm_source=2df33c66&v=3B7AF3D802405CA5465A651623A657F1676076AC"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5905781004?se=LIuW38TE8RGE9KEGULvTlA&utm_medium=api&utm_source=2df33c66&v=3B7AF3D802405CA5465A651623A657F1676076AC"
       },
       {
         "title": "SAP Senior Consultant - Security",
@@ -102,7 +102,7 @@
         "location": "Belle Isle, Leeds",
         "posted": "Oct 1, 2026",
         "pay": "$48,408/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5905781004?se=_KRDDQbE8RGRs48L_-pA7w&utm_medium=api&utm_source=2df33c66&v=3B7AF3D802405CA5465A651623A657F1676076AC"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5905781004?se=njHs38TE8RGGdoFFl_aI8Q&utm_medium=api&utm_source=2df33c66&v=3B7AF3D802405CA5465A651623A657F1676076AC"
       },
       {
         "title": "SAP GRC Lead",
@@ -118,7 +118,7 @@
         "location": "Hull, East Riding Of Yorkshire",
         "posted": "Sep 21, 2026",
         "pay": "$130,000 – $143,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5893071187?se=ho0IDQbE8RGRs48L_-pA7w&utm_medium=api&utm_source=2df33c66&v=219F36A67921C9B3C3C14335635025D064D32189"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5893071187?se=mg6-38TE8RG_59bpLSVmjQ&utm_medium=api&utm_source=2df33c66&v=219F36A67921C9B3C3C14335635025D064D32189"
       },
       {
         "title": "SAP Security & GRC Consultant",
@@ -134,7 +134,7 @@
         "location": "Reading, Berkshire",
         "posted": "Sep 17, 2026",
         "pay": "$70,000 – $80,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5888078055?se=IEHtDAbE8RGAYIVsDFf18w&utm_medium=api&utm_source=2df33c66&v=ACA3E6B7807190C52C5F92FCCD44FB331641CCBD"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5888078055?se=LIuW38TE8RGE9KEGULvTlA&utm_medium=api&utm_source=2df33c66&v=ACA3E6B7807190C52C5F92FCCD44FB331641CCBD"
       }
     ],
     "India (Hyderabad)": [
