@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:49:21.540Z",
+  "generatedAt": "2026-10-23T15:40:31.203Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,12 +7,20 @@
   "regions": {
     "United States": [
       {
-        "title": "SAP GRC Security Consultant",
-        "company": "Capgemini",
-        "location": "Old Sixth Ward, Houston",
-        "posted": "Oct 21, 2026",
-        "pay": "$97,002/yr",
-        "url": "https://www.adzuna.com/details/5936808055?utm_medium=api&utm_source=2df33c66"
+        "title": "SAP Security Lead",
+        "company": "Insight Global",
+        "location": "Cleveland, Cuyahoga County",
+        "posted": "Oct 23, 2026",
+        "pay": "$88,009/yr",
+        "url": "https://www.adzuna.com/land/ad/5938939809?se=prMzEvjO8RGZusTiLQIZSw&utm_medium=api&utm_source=2df33c66&v=69A6961CFBB01C55F984910E2EF7A3482B3C5078"
+      },
+      {
+        "title": "Manager, SAP Security and Controls",
+        "company": "Clorox",
+        "location": "Durham, Durham County",
+        "posted": "Oct 22, 2026",
+        "pay": "$109,400 – $215,500/yr",
+        "url": "https://www.adzuna.com/details/5937543802?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "Lead SAP Security/GRC Consultant",
@@ -23,12 +31,28 @@
         "url": "https://www.adzuna.com/details/5935986804?utm_medium=api&utm_source=2df33c66"
       },
       {
+        "title": "Manager, SAP Security and Controls",
+        "company": "The Clorox Company",
+        "location": "Dublin, Alameda County",
+        "posted": "Oct 16, 2026",
+        "pay": "$248,450/yr",
+        "url": "https://www.adzuna.com/land/ad/5930389177?se=_qB_EvjO8RG1G-F4Et1fCg&utm_medium=api&utm_source=2df33c66&v=7C193910EBFC653A7FBE741CD1AD0D5CCEA02254"
+      },
+      {
+        "title": "SAP S/4HANA BTP Security Consultant",
+        "company": "Quantum Integrators",
+        "location": "Raritan, Somerset County",
+        "posted": "Oct 14, 2026",
+        "pay": "$65,178/yr",
+        "url": "https://www.adzuna.com/land/ad/5928167190?se=xBcWEvjO8RGKHsc_afnXVw&utm_medium=api&utm_source=2df33c66&v=BD30F677D9BF02E1999E00E79175EB855A7375E3"
+      },
+      {
         "title": "SAP Security Consultant",
         "company": "MAK Technologies, LLC",
         "location": "US",
         "posted": "Oct 14, 2026",
         "pay": "$107,717/yr",
-        "url": "https://www.adzuna.com/land/ad/5928062803?se=lt7oIzDO8RGC1t7-FdjP9w&utm_medium=api&utm_source=2df33c66&v=9AF5C351F740B0626C42A3FBA05ACBC8B07FACAE"
+        "url": "https://www.adzuna.com/land/ad/5928062803?se=FBtjEvjO8RGKHsc_afnXVw&utm_medium=api&utm_source=2df33c66&v=9AF5C351F740B0626C42A3FBA05ACBC8B07FACAE"
       },
       {
         "title": "SAP Security Consultant GRC/IAG",
@@ -36,7 +60,7 @@
         "location": "US",
         "posted": "Oct 14, 2026",
         "pay": "$83,128/yr",
-        "url": "https://www.adzuna.com/land/ad/5928060545?se=5oVvIzDO8RGC1t7-FdjP9w&utm_medium=api&utm_source=2df33c66&v=E0FF7E432E1C59BF5E4576814E4C169F2EE9BF7B"
+        "url": "https://www.adzuna.com/land/ad/5928060545?se=ME7dEfjO8RG1G-F4Et1fCg&utm_medium=api&utm_source=2df33c66&v=E0FF7E432E1C59BF5E4576814E4C169F2EE9BF7B"
       },
       {
         "title": "SAP Security Consultant GRC/IAG",
@@ -44,41 +68,25 @@
         "location": "US",
         "posted": "Oct 14, 2026",
         "pay": "$83,128/yr",
-        "url": "https://www.adzuna.com/land/ad/5928060545?se=FtrRIzDO8RGd8eOqR9IQ5A&utm_medium=api&utm_source=2df33c66&v=E0FF7E432E1C59BF5E4576814E4C169F2EE9BF7B"
-      },
-      {
-        "title": "SAP Security Consultant GRC/IAG",
-        "company": "Advent Global Solutions, Inc.",
-        "location": "US",
-        "posted": "Oct 14, 2026",
-        "pay": "$83,128/yr",
-        "url": "https://www.adzuna.com/land/ad/5928060545?se=lt7oIzDO8RGC1t7-FdjP9w&utm_medium=api&utm_source=2df33c66&v=E0FF7E432E1C59BF5E4576814E4C169F2EE9BF7B"
-      },
-      {
-        "title": "SAP GRC Consultant (Indianapolis)",
-        "company": "Ampstek",
-        "location": "West Indianapolis, Marion County",
-        "posted": "Oct 14, 2026",
-        "pay": "$101,998/yr",
-        "url": "https://www.adzuna.com/land/ad/5927883564?se=ij2gIzDO8RGd8eOqR9IQ5A&utm_medium=api&utm_source=2df33c66&v=D831048DDBECBC9268816B91089BFF9DEBB8AE79"
-      },
-      {
-        "title": "SAP GRC Consultant (Indianapolis)",
-        "company": "Ampstek",
-        "location": "West Indianapolis, Marion County",
-        "posted": "Oct 14, 2026",
-        "pay": "$101,998/yr",
-        "url": "https://www.adzuna.com/land/ad/5927883564?se=Hoy4IzDO8RGMWLlkedeqrQ&utm_medium=api&utm_source=2df33c66&v=D831048DDBECBC9268816B91089BFF9DEBB8AE79"
+        "url": "https://www.adzuna.com/land/ad/5928060545?se=WAZNEvjO8RGKHsc_afnXVw&utm_medium=api&utm_source=2df33c66&v=E0FF7E432E1C59BF5E4576814E4C169F2EE9BF7B"
       }
     ],
     "United Kingdom": [
       {
         "title": "SAP GRC Analyst",
         "company": "Sellick Partnership",
+        "location": "Hulme, Manchester",
+        "posted": "Oct 23, 2026",
+        "pay": "$40,000 – $45,000/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5939154366?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP GRC Analyst",
+        "company": "Sellick Partnership",
         "location": "Manchester, Greater Manchester",
         "posted": "Oct 22, 2026",
         "pay": "$40,000 – $45,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937979239?se=NtQvJDDO8RGC1t7-FdjP9w&utm_medium=api&utm_source=2df33c66&v=35EE8B95E6E6065EFE14D075CC7FF4A1EA02D7B2"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937979239?se=QqvHEvjO8RGvatOZMyLrig&utm_medium=api&utm_source=2df33c66&v=35EE8B95E6E6065EFE14D075CC7FF4A1EA02D7B2"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -86,7 +94,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=_vcbJDDO8RGd8eOqR9IQ5A&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=zhS0EvjO8RGZusTiLQIZSw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -94,7 +102,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=NtQvJDDO8RGC1t7-FdjP9w&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=QqvHEvjO8RGvatOZMyLrig&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -102,7 +110,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=lF5bJDDO8RGC1t7-FdjP9w&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=mq7pEvjO8RGKHsc_afnXVw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -110,7 +118,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=jB96JDDO8RGMWLlkedeqrQ&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=Ho0EE_jO8RGKHsc_afnXVw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "SAP Security & Identity Access Governance Consultant",
@@ -127,14 +135,6 @@
         "posted": "Sep 12, 2026",
         "pay": "$110,000 – $130,000/yr",
         "url": "https://www.adzuna.co.uk/jobs/details/5881560438?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "S/4HANA SAP Security and Compliance (GRC)",
-        "company": "Capgemini",
-        "location": "London, UK",
-        "posted": "Aug 19, 2026",
-        "pay": "$49,400/yr",
-        "url": "https://www.adzuna.co.uk/jobs/details/5847551954?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "India (Hyderabad)": [
@@ -195,12 +195,12 @@
         "url": "https://www.adzuna.in/details/5911773627?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP S/4HANA Security Consultant - REMOTE",
-        "company": "ADV TECHMINDS",
+        "title": "SAP GRC and Security Consultant",
+        "company": "Protiviti Consulting Private Limited",
         "location": "Hyderabad, Telangana",
-        "posted": "Aug 26, 2026",
+        "posted": "Aug 25, 2026",
         "pay": "",
-        "url": "https://www.adzuna.in/details/5856501427?utm_medium=api&utm_source=2df33c66"
+        "url": "https://www.adzuna.in/details/5854877486?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "United Arab Emirates": [
