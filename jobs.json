@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:54:21.453Z",
+  "generatedAt": "2026-10-26T17:11:24.700Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,12 +7,28 @@
   "regions": {
     "United States": [
       {
+        "title": "SAP Security & GRC Engineer",
+        "company": "Bright Vision Technologies",
+        "location": "East Brunswick, Middlesex County",
+        "posted": "Oct 26, 2026",
+        "pay": "$146,312/yr",
+        "url": "https://www.adzuna.com/details/5942313680?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "IT Auditor",
+        "company": "Addison Group",
+        "location": "Dallas, Texas",
+        "posted": "Oct 26, 2026",
+        "pay": "$85,644/yr",
+        "url": "https://www.adzuna.com/land/ad/5942311270?se=vpApRGDR8RGaLvZ41xPXIA&utm_medium=api&utm_source=2df33c66&v=7ABE89637502C9F35978A7480A8787AE3404450B"
+      },
+      {
         "title": "SAP BTP Security Resource",
         "company": "Quantum Integrators",
         "location": "Raritan, Somerset County",
         "posted": "Oct 24, 2026",
         "pay": "$112,067/yr",
-        "url": "https://www.adzuna.com/land/ad/5940799755?se=wFo19IPQ8RG17O__M5KguQ&utm_medium=api&utm_source=2df33c66&v=9FCCB508ED2FC58AA9D1717BB8D8022145A6FA05"
+        "url": "https://www.adzuna.com/land/ad/5940799755?se=dP0QRGDR8RGaLvZ41xPXIA&utm_medium=api&utm_source=2df33c66&v=9FCCB508ED2FC58AA9D1717BB8D8022145A6FA05"
       },
       {
         "title": "SAP BTP Security Resource (Raritan)",
@@ -20,7 +36,7 @@
         "location": "Raritan, Somerset County",
         "posted": "Oct 24, 2026",
         "pay": "$125,826/yr",
-        "url": "https://www.adzuna.com/land/ad/5940760657?se=wFo19IPQ8RG17O__M5KguQ&utm_medium=api&utm_source=2df33c66&v=E23442FE79A0088E717BF28119EFAE2F4E990700"
+        "url": "https://www.adzuna.com/land/ad/5940760657?se=dP0QRGDR8RGaLvZ41xPXIA&utm_medium=api&utm_source=2df33c66&v=E23442FE79A0088E717BF28119EFAE2F4E990700"
       },
       {
         "title": "SAP Security Lead",
@@ -28,7 +44,15 @@
         "location": "Cleveland, Cuyahoga County",
         "posted": "Oct 23, 2026",
         "pay": "$88,009/yr",
-        "url": "https://www.adzuna.com/land/ad/5938939809?se=qgj984PQ8RG17O__M5KguQ&utm_medium=api&utm_source=2df33c66&v=69A6961CFBB01C55F984910E2EF7A3482B3C5078"
+        "url": "https://www.adzuna.com/land/ad/5938939809?se=5gzbQ2DR8RGaLvZ41xPXIA&utm_medium=api&utm_source=2df33c66&v=69A6961CFBB01C55F984910E2EF7A3482B3C5078"
+      },
+      {
+        "title": "SAP Security & GRC Engineer",
+        "company": "Bright Vision Technologies",
+        "location": "Hanover Park, Cook County",
+        "posted": "Oct 22, 2026",
+        "pay": "$100,000 – $125,000/yr",
+        "url": "https://www.adzuna.com/details/5937587555?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "Manager, SAP Security and Controls",
@@ -45,30 +69,6 @@
         "posted": "Oct 20, 2026",
         "pay": "$70,086/yr",
         "url": "https://www.adzuna.com/details/5935986804?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "SAP Security & GRC Engineer",
-        "company": "Bright Vision Technologies",
-        "location": "Piscataway, Middlesex County",
-        "posted": "Oct 19, 2026",
-        "pay": "$159,459/yr",
-        "url": "https://www.adzuna.com/details/5934330349?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "Manager, SAP Security and Controls",
-        "company": "The Clorox Company",
-        "location": "Dublin, Alameda County",
-        "posted": "Oct 16, 2026",
-        "pay": "$248,450/yr",
-        "url": "https://www.adzuna.com/land/ad/5930389177?se=4klR9IPQ8RG0GownEE_3tg&utm_medium=api&utm_source=2df33c66&v=7C193910EBFC653A7FBE741CD1AD0D5CCEA02254"
-      },
-      {
-        "title": "SAP S/4HANA BTP Security Consultant",
-        "company": "Quantum Integrators",
-        "location": "Raritan, Somerset County",
-        "posted": "Oct 14, 2026",
-        "pay": "$65,178/yr",
-        "url": "https://www.adzuna.com/land/ad/5928167190?se=oMbV84PQ8RG0GownEE_3tg&utm_medium=api&utm_source=2df33c66&v=BD30F677D9BF02E1999E00E79175EB855A7375E3"
       }
     ],
     "United Kingdom": [
@@ -86,7 +86,7 @@
         "location": "Manchester, Greater Manchester",
         "posted": "Oct 22, 2026",
         "pay": "$40,000 – $45,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937979239?se=8ped9IPQ8RGrV9qPojDs1w&utm_medium=api&utm_source=2df33c66&v=35EE8B95E6E6065EFE14D075CC7FF4A1EA02D7B2"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937979239?se=liZ1RGDR8RGaLvZ41xPXIA&utm_medium=api&utm_source=2df33c66&v=35EE8B95E6E6065EFE14D075CC7FF4A1EA02D7B2"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -94,7 +94,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=BP6E9IPQ8RGrV9qPojDs1w&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=lHFeRGDR8RGTmpORxmRtzw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -102,7 +102,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=8ped9IPQ8RGrV9qPojDs1w&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=liZ1RGDR8RGaLvZ41xPXIA&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -110,7 +110,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=1ovK9IPQ8RG17O__M5KguQ&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=WMinRGDR8RGOEpOGFIgEig&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -118,7 +118,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=Ejzj9IPQ8RG0GownEE_3tg&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=PLnIRGDR8RGh_oyDYnSS7w&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "SAP Security & Identity Access Governance Consultant",
@@ -138,14 +138,6 @@
       }
     ],
     "India (Hyderabad)": [
-      {
-        "title": "IT&D Analyst SAP Finance",
-        "company": "Reckitt",
-        "location": "Hyderabad, Telangana",
-        "posted": "Oct 24, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/land/ad/5940684085?se=inic9YPQ8RG17O__M5KguQ&utm_medium=api&utm_source=2df33c66&v=910AA0EE0B8053A533D966EB376D14183CA6B66E"
-      },
       {
         "title": "SAP GRC/ Security",
         "company": "NTT America, Inc.",
@@ -201,6 +193,14 @@
         "posted": "Oct 5, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5911773627?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "IMUAM Deployment Manager",
+        "company": "Johnson & Johnson",
+        "location": "Hyderabad, Telangana",
+        "posted": "Jul 20, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5807489031?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "Remote / Global": [
