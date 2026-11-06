@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:35:44.806Z",
+  "generatedAt": "2026-11-06T17:51:53.191Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,12 +7,36 @@
   "regions": {
     "United States": [
       {
-        "title": "SAP Security & GRC Consultant: API Authorization (S/4HANA) - Hybrid - W2 Contract Position",
-        "company": "Excelon Solutions LLC",
-        "location": "Indiana, Indiana County",
+        "title": "SAP GRC Consultant",
+        "company": "Vertex Elite LLC",
+        "location": "Charlotte, Mecklenburg County",
+        "posted": "Nov 6, 2026",
+        "pay": "$136,864/yr",
+        "url": "https://www.adzuna.com/land/ad/5955580298?se=KOopvgra8RG7pKajFhPexA&utm_medium=api&utm_source=2df33c66&v=22D82784A840B9EB5C05CB4773857FFAFB79A677"
+      },
+      {
+        "title": "SAP GRC Consultant",
+        "company": "Vertex Elite LLC",
+        "location": "Charlotte, Mecklenburg County",
         "posted": "Nov 5, 2026",
-        "pay": "$56,129/yr",
-        "url": "https://www.adzuna.com/details/5954525883?utm_medium=api&utm_source=2df33c66"
+        "pay": "$112,550/yr",
+        "url": "https://www.adzuna.com/land/ad/5955128616?se=KOopvgra8RG7pKajFhPexA&utm_medium=api&utm_source=2df33c66&v=85CCA8CB91844D6C3252EF90A32C5E5ED6A32F0F"
+      },
+      {
+        "title": "Director, SAP Role Security & Compliance",
+        "company": "Gilead Sciences, Inc.",
+        "location": "Five Points, Wake County",
+        "posted": "Nov 4, 2026",
+        "pay": "$279,987/yr",
+        "url": "https://www.adzuna.com/land/ad/5953044383?se=Wv6Ivgra8RGMj86c16zqBQ&utm_medium=api&utm_source=2df33c66&v=441C9B3C9F75B1D08608F70D3CF388312F4954D4"
+      },
+      {
+        "title": "Director, SAP Role Security & Compliance",
+        "company": "Gilead Sciences, Inc.",
+        "location": "Belmont, San Mateo County",
+        "posted": "Nov 4, 2026",
+        "pay": "$333,226/yr",
+        "url": "https://www.adzuna.com/land/ad/5952918499?se=Wv6Ivgra8RGMj86c16zqBQ&utm_medium=api&utm_source=2df33c66&v=BD3E662DDD3837457987E84E6ABEF9DBD9A272E8"
       },
       {
         "title": "SAP IAG Consultant",
@@ -23,20 +47,12 @@
         "url": "https://www.adzuna.com/details/5952026254?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP Platforms Basis and Security Lead",
-        "company": "CUC Corporate Brand",
-        "location": "Delaware, US",
-        "posted": "Nov 1, 2026",
-        "pay": "$93,553/yr",
-        "url": "https://www.adzuna.com/details/5949102934?utm_medium=api&utm_source=2df33c66"
-      },
-      {
         "title": "SAP Process Control Risk Management Specialist with Security Clearance",
         "company": "Gridiron IT Solutions",
         "location": "Saint Louis, Saint Louis County",
         "posted": "Nov 1, 2026",
         "pay": "$129,534/yr",
-        "url": "https://www.adzuna.com/land/ad/5948842068?se=zmgFtEfZ8RG4vr3URdSNKw&utm_medium=api&utm_source=2df33c66&v=871D084636EFFF5ACFEBD254D35AECACF2034801"
+        "url": "https://www.adzuna.com/land/ad/5948842068?se=tFhDvgra8RGD5Iv7NVeOtg&utm_medium=api&utm_source=2df33c66&v=871D084636EFFF5ACFEBD254D35AECACF2034801"
       },
       {
         "title": "SAP Security Administrator with Security Clearance",
@@ -44,49 +60,25 @@
         "location": "Saint Louis, Saint Louis County",
         "posted": "Nov 1, 2026",
         "pay": "$140,831/yr",
-        "url": "https://www.adzuna.com/land/ad/5948804307?se=vsjns0fZ8RG4vr3URdSNKw&utm_medium=api&utm_source=2df33c66&v=2639A372BF500CD1658A511DC0EFF8BA98F32660"
+        "url": "https://www.adzuna.com/land/ad/5948804307?se=KOopvgra8RG7pKajFhPexA&utm_medium=api&utm_source=2df33c66&v=2639A372BF500CD1658A511DC0EFF8BA98F32660"
       },
       {
-        "title": "SAP GRC Process Control Risk Management with Security Clearance",
-        "company": "CDIT LLC",
-        "location": "Scott Air Force Base, Saint Clair County",
-        "posted": "Oct 30, 2026",
-        "pay": "$131,532/yr",
-        "url": "https://www.adzuna.com/land/ad/5947275636?se=zmgFtEfZ8RG4vr3URdSNKw&utm_medium=api&utm_source=2df33c66&v=705A8A3ABBBF0895E91584EF832B38C06FCA0019"
-      },
-      {
-        "title": "SAP HANA Security & GRC Consultant",
-        "company": "CTG",
-        "location": "Washington, D.C., US",
-        "posted": "Oct 29, 2026",
-        "pay": "$116,393/yr",
-        "url": "https://www.adzuna.com/land/ad/5945578495?se=1OWqs0fZ8RG4vr3URdSNKw&utm_medium=api&utm_source=2df33c66&v=74C512CF3A2F4DDD1ADE799716FAAE678E4A933E"
-      },
-      {
-        "title": "SAP HANA Security & GRC Consultant",
-        "company": "CTG",
-        "location": "Washington, D.C., US",
-        "posted": "Oct 29, 2026",
-        "pay": "$116,393/yr",
-        "url": "https://www.adzuna.com/land/ad/5945578495?se=rAwktEfZ8RGwnq5YKIX2tg&utm_medium=api&utm_source=2df33c66&v=74C512CF3A2F4DDD1ADE799716FAAE678E4A933E"
+        "title": "Sr SAP Basis Administrator",
+        "company": "Penumbra",
+        "location": "US",
+        "posted": "Oct 31, 2026",
+        "pay": "$137,815/yr",
+        "url": "https://www.adzuna.com/details/5947742503?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "United Kingdom": [
       {
         "title": "SAP GRC Analyst",
         "company": "Sellick Partnership",
-        "location": "Hulme, Manchester",
-        "posted": "Oct 30, 2026",
-        "pay": "$40,000 – $45,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/details/5946831404?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "SAP GRC Analyst",
-        "company": "Sellick Partnership",
         "location": "Rusholme, Manchester",
         "posted": "Oct 22, 2026",
         "pay": "$40,000 – $45,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937981668?se=eOaltEfZ8RGnicp5Xng6IQ&utm_medium=api&utm_source=2df33c66&v=B32AFD9882B03EBC7C0E7D7600A0C14A5F0B0357"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937981668?se=hgLHvgra8RGaw-Sy3Tkuxg&utm_medium=api&utm_source=2df33c66&v=B32AFD9882B03EBC7C0E7D7600A0C14A5F0B0357"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -94,7 +86,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=0sKNtEfZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=-qyyvgra8RGmUJE2bXPsUg&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -102,7 +94,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=eOaltEfZ8RGnicp5Xng6IQ&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=hgLHvgra8RGaw-Sy3Tkuxg&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -110,7 +102,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=zA3ftEfZ8RGQKJil6qiwgw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=XBzrvgra8RGmUJE2bXPsUg&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -118,7 +110,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=TsH5tEfZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=YgoBvwra8RGmUJE2bXPsUg&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
       },
       {
         "title": "SAP Security & Identity Access Governance Consultant",
@@ -135,6 +127,14 @@
         "posted": "Sep 12, 2026",
         "pay": "$110,000 – $130,000/yr",
         "url": "https://www.adzuna.co.uk/jobs/details/5881560438?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP_GRC_Senior",
+        "company": "ey",
+        "location": "UK",
+        "posted": "Jul 10, 2025",
+        "pay": "$32,883/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5295889249?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "India (Hyderabad)": [
@@ -161,6 +161,14 @@
         "posted": "Oct 29, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5944849766?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP GRC/ Security",
+        "company": "NTT America, Inc.",
+        "location": "Hyderabad, Telangana",
+        "posted": "Oct 21, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5936317727?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SOX ITGC Controls & SOX Key Reports",
@@ -193,17 +201,17 @@
         "posted": "Jul 20, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5807489031?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "Analyst IM User Access Management",
-        "company": "Johnson & Johnson",
-        "location": "Hyderabad, Telangana",
-        "posted": "May 1, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/details/5714817657?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "Remote / Global": [
+      {
+        "title": "Operations Expert with Python for AI Supply Chain Task Design",
+        "company": "Toptal",
+        "location": "Remote",
+        "posted": "Nov 5, 2026",
+        "pay": "",
+        "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690"
+      },
       {
         "title": "AWS Cloud Solutions Architect",
         "company": "Cloudary SAS",
