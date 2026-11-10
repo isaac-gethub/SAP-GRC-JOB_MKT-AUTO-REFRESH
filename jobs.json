@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:20:43.040Z",
+  "generatedAt": "2026-11-10T18:31:27.713Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,12 +7,20 @@
   "regions": {
     "United States": [
       {
-        "title": "SAP GRC Lead",
-        "company": "GAF",
-        "location": "Parsippany Troy Hills, Morris County",
-        "posted": "Nov 8, 2026",
-        "pay": "$164,766/yr",
-        "url": "https://www.adzuna.com/land/ad/5958179961?se=UJymaYPc8RGM0oG9aQFYaw&utm_medium=api&utm_source=2df33c66&v=D3E97A5219004984A56301D2EBAF88C82CA7CC01"
+        "title": "SAP Security Project Manager",
+        "company": "TALENT Software Services",
+        "location": "Raritan, Somerset County",
+        "posted": "Nov 10, 2026",
+        "pay": "$117,575/yr",
+        "url": "https://www.adzuna.com/land/ad/5960612815?se=zGvJ7jTd8RGahs1edvD88w&utm_medium=api&utm_source=2df33c66&v=3E67F8D90E4B34A42AC4A2225A2F32BF04861421"
+      },
+      {
+        "title": "SAP Technical Workstream Lead",
+        "company": "Akaasa Technologies",
+        "location": "US",
+        "posted": "Nov 9, 2026",
+        "pay": "$152,122/yr",
+        "url": "https://www.adzuna.com/details/5959811774?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SAP Application Security Consultant (GRC)",
@@ -20,7 +28,7 @@
         "location": "Washington, D.C., US",
         "posted": "Nov 8, 2026",
         "pay": "$189,070/yr",
-        "url": "https://www.adzuna.com/land/ad/5958137157?se=TkoZaYPc8RGM0oG9aQFYaw&utm_medium=api&utm_source=2df33c66&v=FE0D0FB3637607779BD758434F4CA30C1302B744"
+        "url": "https://www.adzuna.com/land/ad/5958137157?se=7jiP7jTd8RGRTbZzUjwcZg&utm_medium=api&utm_source=2df33c66&v=FE0D0FB3637607779BD758434F4CA30C1302B744"
       },
       {
         "title": "SAP Application Security GRC/BTP Consultant",
@@ -28,7 +36,7 @@
         "location": "Washington, D.C., US",
         "posted": "Nov 8, 2026",
         "pay": "$166,002/yr",
-        "url": "https://www.adzuna.com/land/ad/5958137164?se=TkoZaYPc8RGM0oG9aQFYaw&utm_medium=api&utm_source=2df33c66&v=0F5D08D0BA4485193A3C0F697CA3DD2830080CF3"
+        "url": "https://www.adzuna.com/land/ad/5958137164?se=7jiP7jTd8RGRTbZzUjwcZg&utm_medium=api&utm_source=2df33c66&v=0F5D08D0BA4485193A3C0F697CA3DD2830080CF3"
       },
       {
         "title": "Sap Basis & Security Lead",
@@ -39,20 +47,12 @@
         "url": "https://www.adzuna.com/details/5956290260?utm_medium=api&utm_source=2df33c66"
       },
       {
-        "title": "SAP Security Administrator",
-        "company": "CACI International, Inc.",
-        "location": "US",
-        "posted": "Nov 5, 2026",
-        "pay": "$158,743/yr",
-        "url": "https://www.adzuna.com/land/ad/5954891389?se=DElSaYPc8RG6aZau-BQy2Q&utm_medium=api&utm_source=2df33c66&v=E4F19EA8195F795CCE1206D41C25280DD55B9C03"
-      },
-      {
         "title": "Director, SAP Role Security & Compliance",
         "company": "Gilead Sciences, Inc.",
         "location": "Five Points, Wake County",
         "posted": "Nov 4, 2026",
         "pay": "$279,987/yr",
-        "url": "https://www.adzuna.com/land/ad/5953044383?se=hOLCaYPc8RGWVLlCAvhPhA&utm_medium=api&utm_source=2df33c66&v=441C9B3C9F75B1D08608F70D3CF388312F4954D4"
+        "url": "https://www.adzuna.com/land/ad/5953044383?se=OsNE7zTd8RGkGtN3u9Jbdg&utm_medium=api&utm_source=2df33c66&v=441C9B3C9F75B1D08608F70D3CF388312F4954D4"
       },
       {
         "title": "Director, SAP Role Security & Compliance",
@@ -60,15 +60,15 @@
         "location": "Belmont, San Mateo County",
         "posted": "Nov 4, 2026",
         "pay": "$333,226/yr",
-        "url": "https://www.adzuna.com/land/ad/5952918499?se=hOLCaYPc8RGWVLlCAvhPhA&utm_medium=api&utm_source=2df33c66&v=BD3E662DDD3837457987E84E6ABEF9DBD9A272E8"
+        "url": "https://www.adzuna.com/land/ad/5952918499?se=OsNE7zTd8RGkGtN3u9Jbdg&utm_medium=api&utm_source=2df33c66&v=BD3E662DDD3837457987E84E6ABEF9DBD9A272E8"
       },
       {
-        "title": "Director, SAP Role Security & Compliance",
-        "company": "Gilead Sciences",
-        "location": "Foster City, San Mateo County",
-        "posted": "Nov 4, 2026",
-        "pay": "$210,375 – $272,250/yr",
-        "url": "https://www.adzuna.com/details/5952831714?utm_medium=api&utm_source=2df33c66"
+        "title": "SAP IAG Consultant",
+        "company": "AspireIT Solutions",
+        "location": "US",
+        "posted": "Nov 3, 2026",
+        "pay": "$118,115/yr",
+        "url": "https://www.adzuna.com/land/ad/5952026254?se=zGvJ7jTd8RGahs1edvD88w&utm_medium=api&utm_source=2df33c66&v=DD915C8969893720F13A2C8BA2450996FF2A581E"
       }
     ],
     "United Kingdom": [
@@ -78,7 +78,7 @@
         "location": "Rusholme, Manchester",
         "posted": "Oct 22, 2026",
         "pay": "$40,000 – $45,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937981668?se=uFsQaoPc8RGv2bZKCawDWA&utm_medium=api&utm_source=2df33c66&v=B32AFD9882B03EBC7C0E7D7600A0C14A5F0B0357"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937981668?se=eEKW7zTd8RGahs1edvD88w&utm_medium=api&utm_source=2df33c66&v=B32AFD9882B03EBC7C0E7D7600A0C14A5F0B0357"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
@@ -86,31 +86,7 @@
         "location": "Belfast, Northern Ireland",
         "posted": "Oct 21, 2026",
         "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=aCv1aYPc8RGWVLlCAvhPhA&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
-      },
-      {
-        "title": "Consultant, Solutions, SAP Security and Authorisation",
-        "company": "Deloitte",
-        "location": "Belfast, Northern Ireland",
-        "posted": "Oct 21, 2026",
-        "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=uFsQaoPc8RGv2bZKCawDWA&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
-      },
-      {
-        "title": "Consultant, Solutions, SAP Security and Authorisation",
-        "company": "Deloitte",
-        "location": "Belfast, Northern Ireland",
-        "posted": "Oct 21, 2026",
-        "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=Hm9BaoPc8RGv2bZKCawDWA&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
-      },
-      {
-        "title": "Consultant, Solutions, SAP Security and Authorisation",
-        "company": "Deloitte",
-        "location": "Belfast, Northern Ireland",
-        "posted": "Oct 21, 2026",
-        "pay": "$36,958/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5936731059?se=GNxcaoPc8RGWVLlCAvhPhA&utm_medium=api&utm_source=2df33c66&v=4797FB573A7A70E0ABB429BE272DEAAE81B4124A"
+        "url": "https://www.adzuna.co.uk/jobs/details/5936731059?utm_medium=api&utm_source=2df33c66"
       },
       {
         "title": "SAP Security & Identity Access Governance Consultant",
@@ -135,9 +111,41 @@
         "posted": "Jul 10, 2025",
         "pay": "$32,883/yr",
         "url": "https://www.adzuna.co.uk/jobs/details/5295889249?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP Security - Lead Solution Advisor/Senior Solution Advisor",
+        "company": "Deloitte",
+        "location": "UK",
+        "posted": "Jul 10, 2025",
+        "pay": "$67,166/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5295888640?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "SAP ITGC Control performer - Global ERP",
+        "company": "abb",
+        "location": "UK",
+        "posted": "May 22, 2025",
+        "pay": "$51,511/yr",
+        "url": "https://www.adzuna.co.uk/jobs/details/5210481960?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "India (Hyderabad)": [
+      {
+        "title": "Senior Expert SAP Secure Access",
+        "company": "Lonza",
+        "location": "Hyderabad, Telangana",
+        "posted": "Nov 10, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5960294474?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "Business Development Manager - US",
+        "company": "ToggleNow",
+        "location": "Hyderabad, Telangana",
+        "posted": "Nov 10, 2026",
+        "pay": "",
+        "url": "https://www.adzuna.in/details/5960293922?utm_medium=api&utm_source=2df33c66"
+      },
       {
         "title": "IM UAM Governance Manager",
         "company": "Johnson & Johnson",
@@ -185,22 +193,6 @@
         "posted": "Oct 16, 2026",
         "pay": "",
         "url": "https://www.adzuna.in/details/5930884333?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "IMUAM Deployment Manager",
-        "company": "Johnson & Johnson",
-        "location": "Hyderabad, Telangana",
-        "posted": "Jul 20, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/details/5807489031?utm_medium=api&utm_source=2df33c66"
-      },
-      {
-        "title": "Analyst IM User Access Management",
-        "company": "Johnson & Johnson",
-        "location": "Hyderabad, Telangana",
-        "posted": "May 1, 2026",
-        "pay": "",
-        "url": "https://www.adzuna.in/details/5714817657?utm_medium=api&utm_source=2df33c66"
       }
     ],
     "Remote / Global": [
