@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:29:27.793Z",
+  "generatedAt": "2026-11-12T18:44:30.161Z",
   "sources": [
     "Adzuna (US, UK, India)",
     "RemoteOK"
@@ -7,20 +7,20 @@
   "regions": {
     "United States": [
       {
+        "title": "SAP Technical Workstream Lead (BASIS, Security & IAG)",
+        "company": "Akaasa Technologies",
+        "location": "US",
+        "posted": "Nov 11, 2026",
+        "pay": "$130,318/yr",
+        "url": "https://www.adzuna.com/details/5962468287?utm_medium=api&utm_source=2df33c66"
+      },
+      {
         "title": "SAP GRC Tech Architect - 00071121131",
         "company": "Cognizant",
         "location": "Kohler, Sheboygan County",
         "posted": "Nov 11, 2026",
         "pay": "$155,171/yr",
-        "url": "https://www.adzuna.com/land/ad/5961617747?se=TE_m0f3d8RG2gvl2oUmJsg&utm_medium=api&utm_source=2df33c66&v=B73D496A21A40E5C69A8D338626C00FB7ED2D286"
-      },
-      {
-        "title": "SAP Security & GRC Lead",
-        "company": "CRH",
-        "location": "Tuxedo, Fulton County",
-        "posted": "Nov 10, 2026",
-        "pay": "$232,895/yr",
-        "url": "https://www.adzuna.com/details/5960631161?utm_medium=api&utm_source=2df33c66"
+        "url": "https://www.adzuna.com/land/ad/5961617747?se=er0gFsne8RGgDrQN4m_CPg&utm_medium=api&utm_source=2df33c66&v=B73D496A21A40E5C69A8D338626C00FB7ED2D286"
       },
       {
         "title": "SAP Technical Workstream Lead BASIS, Security & IAG",
@@ -28,23 +28,7 @@
         "location": "Aliso Viejo, Orange County",
         "posted": "Nov 10, 2026",
         "pay": "$158,471/yr",
-        "url": "https://www.adzuna.com/land/ad/5960622193?se=VA8e0v3d8RGDw-DoHL7Y9Q&utm_medium=api&utm_source=2df33c66&v=F50C189BA069DA388982680A9C285F8DF788C823"
-      },
-      {
-        "title": "SAP Security Project Manager",
-        "company": "TALENT Software Services",
-        "location": "Raritan, Somerset County",
-        "posted": "Nov 10, 2026",
-        "pay": "$117,575/yr",
-        "url": "https://www.adzuna.com/land/ad/5960612815?se=kifN0f3d8RGYFNuPuswjLA&utm_medium=api&utm_source=2df33c66&v=3E67F8D90E4B34A42AC4A2225A2F32BF04861421"
-      },
-      {
-        "title": "SAP Technical Workstream Lead",
-        "company": "Akaasa Technologies",
-        "location": "US",
-        "posted": "Nov 9, 2026",
-        "pay": "$152,122/yr",
-        "url": "https://www.adzuna.com/details/5959811774?utm_medium=api&utm_source=2df33c66"
+        "url": "https://www.adzuna.com/land/ad/5960622193?se=iDZiFsne8RGtfI4ANTZ8vw&utm_medium=api&utm_source=2df33c66&v=F50C189BA069DA388982680A9C285F8DF788C823"
       },
       {
         "title": "SAP Application Security Consultant (GRC)",
@@ -52,7 +36,7 @@
         "location": "Washington, D.C., US",
         "posted": "Nov 8, 2026",
         "pay": "$189,070/yr",
-        "url": "https://www.adzuna.com/land/ad/5958137157?se=Cv6m0f3d8RG-3tonMCyHnw&utm_medium=api&utm_source=2df33c66&v=FE0D0FB3637607779BD758434F4CA30C1302B744"
+        "url": "https://www.adzuna.com/land/ad/5958137157?se=vE7BFcne8RGtfI4ANTZ8vw&utm_medium=api&utm_source=2df33c66&v=FE0D0FB3637607779BD758434F4CA30C1302B744"
       },
       {
         "title": "SAP Application Security GRC/BTP Consultant",
@@ -60,7 +44,7 @@
         "location": "Washington, D.C., US",
         "posted": "Nov 8, 2026",
         "pay": "$166,002/yr",
-        "url": "https://www.adzuna.com/land/ad/5958137164?se=Cv6m0f3d8RG-3tonMCyHnw&utm_medium=api&utm_source=2df33c66&v=0F5D08D0BA4485193A3C0F697CA3DD2830080CF3"
+        "url": "https://www.adzuna.com/land/ad/5958137164?se=vE7BFcne8RGtfI4ANTZ8vw&utm_medium=api&utm_source=2df33c66&v=0F5D08D0BA4485193A3C0F697CA3DD2830080CF3"
       },
       {
         "title": "Sap Basis & Security Lead",
@@ -69,6 +53,22 @@
         "posted": "Nov 6, 2026",
         "pay": "$107,745/yr",
         "url": "https://www.adzuna.com/details/5956290260?utm_medium=api&utm_source=2df33c66"
+      },
+      {
+        "title": "Director, SAP Role Security & Compliance",
+        "company": "Gilead Sciences, Inc.",
+        "location": "Five Points, Wake County",
+        "posted": "Nov 4, 2026",
+        "pay": "$279,987/yr",
+        "url": "https://www.adzuna.com/land/ad/5953044383?se=gt1_Fsne8RGeRcETzs7BxQ&utm_medium=api&utm_source=2df33c66&v=441C9B3C9F75B1D08608F70D3CF388312F4954D4"
+      },
+      {
+        "title": "Director, SAP Role Security & Compliance",
+        "company": "Gilead Sciences, Inc.",
+        "location": "Belmont, San Mateo County",
+        "posted": "Nov 4, 2026",
+        "pay": "$333,226/yr",
+        "url": "https://www.adzuna.com/land/ad/5952918499?se=gt1_Fsne8RGeRcETzs7BxQ&utm_medium=api&utm_source=2df33c66&v=BD3E662DDD3837457987E84E6ABEF9DBD9A272E8"
       }
     ],
     "United Kingdom": [
@@ -86,7 +86,7 @@
         "location": "Rusholme, Manchester",
         "posted": "Oct 22, 2026",
         "pay": "$40,000 – $45,000/yr",
-        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937981668?se=cBBq0v3d8RGYFNuPuswjLA&utm_medium=api&utm_source=2df33c66&v=B32AFD9882B03EBC7C0E7D7600A0C14A5F0B0357"
+        "url": "https://www.adzuna.co.uk/jobs/land/ad/5937981668?se=-DDKFsne8RG0NsbUZx0nZA&utm_medium=api&utm_source=2df33c66&v=B32AFD9882B03EBC7C0E7D7600A0C14A5F0B0357"
       },
       {
         "title": "Consultant, Solutions, SAP Security and Authorisation",
